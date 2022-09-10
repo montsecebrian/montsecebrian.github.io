@@ -10,7 +10,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #-------------------------------
 # Author Settings
 author:
-  name: 
+  name: Montse Cebrian
   image: '/images/Montse_Headshot_small.jpg'
   avatar: '/images/Montse_Headshot_small.jpg'
   description: Hello! My name is Montse. I was born in Barcelona, then adopted by New York. I write stories and I manage projects.
@@ -28,7 +28,7 @@ contact:
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: # add your shortname for Disqus Comment. For example mr-brown
 
 
 #-------------------------------
