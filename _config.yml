@@ -10,10 +10,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #-------------------------------
 # Author Settings
 author:
-  name: Montse Cebrian
+  name: 
   image: '/images/Montse_Headshot_small.jpg'
   avatar: '/images/Montse_Headshot_small.jpg'
-  description: My name is Montse. Born in Barcelona, adopted by New York. I write stories and I manage projects.
+  description: Hello! My name is Montse. Born in Barcelona, adopted by New York. I write stories and I manage projects.
 
 
 #-------------------------------
