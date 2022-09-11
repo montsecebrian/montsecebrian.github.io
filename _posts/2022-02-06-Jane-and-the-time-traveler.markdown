@@ -1,0 +1,18 @@
+---
+layout: post
+title:  Jane and the time traveler
+date:   2022-02-06 15:01:35 +0300
+image:  '/images/tea-vintage.jpg'
+tags:   [Fiction, Time Travel, Jane Austen]
+---
+Young, witty Jane reluctantly put away the book she was reading and stood up graciously to receive her unexpected morning call. Jane wasn’t precisely pleased, but it was of the utmost importance that she caved in to her visitor’s yet-undisclosed but critical requests. The future of humanity depended on it, said the time traveler to herself as she breathed in and stepped into the Austens drawing-room on that December morning of 1795, disguised as an acquaintance of an acquaintance.
+
+The cotton shift was itchy, and the handkerchief filling the bodice was certainly insufficient for a cold English forenoon. The time traveler couldn’t stop running her fingers over the silk gown, though. It could be worse, she thought. Regency-era dresses allowed for some free movement at least, not like the stupidly large gigot sleeves and oppressively tight corsets that would popularize years later. She still had sour memories about her previous job in 1834 when she had to make sure Katherine Thomson Hogarth met Charles Dickens and married him. Kate was an amazingly smart lady, and instrumental in Dickens’s work! We wouldn’t have the phenomenal Miss Havisham without her! But of course, no one wrote about it in any history book. It was unfair, yes, but it wasn’t the time traveler’s job to prevent outstanding women from being hurt, abused, or forgotten. She had been hired to do the opposite, she had been hired to preserve history. Apparently, some time-villains were tweaking things here and there (or then) to erase great works of literature from the archives, but figuring who, how, and why wasn’t her job either.
+
+She shrugged. Her first assignment had involved, unsurprisingly, a certain English playwright, poet, and remarkable lover supposedly born and raised in Stratford-upon-Avon. She smiled this time. The world would be astonished to learn who the greatest writer in the English language really was. Another outstanding soul hidden in history. Oh, well, at least she did have a lot of fun with that one.
+
+“My dear Jane Austen. I am so pleased to finally meet you!” And that was as accurate as it was bitter-sweet. But back to work. The time traveler was there to convince 19-year-old Jane Austen to go to a ball the Lefroy family would throw at Deane House the day after.
+
+“You are so kind, my dear, but I am most determined to stay home tending to Cassandra. How could I possibly enjoy myself at a ball when my poor sister is sick!” replied a delightfully stubborn Jane. The time traveler could see how much of herself the writer put into Elizabeth Bennet. She could feel her heart pounding. There wouldn’t be an Elizabeth Bennet, or a Mr. Darcy, or a Pemberly if she didn’t finish the job, and the job was breaking that sweet creature’s heart by forcing her into the arms of Tom Lefroy, who would leave her to pursue the joys of a wealthier, better-positioned imaginary woman. The time traveler was silently cursing both the itchy shift and Jane’s powerless situation.
+
+“Please be so kind as to apologize for us to Mrs. Lefroy.” Jane continued. A woman could not decide many things for herself back then, why couldn’t Jane decide this at least? But the time traveler had not failed before no matter how unbearable the task was. She would not fail now. Jane Austen was supposed to start the first draft of Pride and Prejudice after her disappointment with Tom Lefroy. That was the job. The time traveler hoped, as she had hoped many times before, and she would hope many times after, that the end justified the means.
