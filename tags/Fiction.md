@@ -1,5 +1,5 @@
 ---
-layout: default
-title: Posts with tag "fiction"
-tag: fiction
+layout: page
+title: About
+permalink: /tag/fiction
 ---
