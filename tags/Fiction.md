@@ -1,5 +1,5 @@
 ---
-layout: tag_posts
-title: Posts with tag "Fiction"
-tag: Fiction
+layout: tag_page
+title: Posts with tag "fiction"
+tag: fiction
 ---
