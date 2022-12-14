@@ -1,5 +1,5 @@
 ---
-layout: tag_page
+layout: default
 title: Posts with tag "fiction"
 tag: fiction
 ---
