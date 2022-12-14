@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  In the (other) Heights
-date:   2022-09-29 18:05:55 +0300
+date:   2021-09-29 18:05:55 +0300
 image:  '/images/wahi.jpg'
 tags:   [Essay, New York, Washington Heights]
 ---
