@@ -4,7 +4,7 @@ title: Montse Cebrian
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Montse Cebrian personal site. Project Management. Short Stories.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.montsecebrian.net/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.montsecebrian.net" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 #-------------------------------
