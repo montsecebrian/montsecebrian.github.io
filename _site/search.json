@@ -1,6 +1,42 @@
 [
   
     {
+      "title"    : "Job Interview",
+      "category" : "",
+      "tags"     : "fiction, Impostor Syndrome, and Dream",
+      "url"      : "/Job-Interview/",
+      "date"     : "Dec 13, 2022",
+      "image"    : "/images/bumper-cars.jpg"
+    } ,
+  
+    {
+      "title"    : "Why I Love You",
+      "category" : "",
+      "tags"     : "Fiction and Love",
+      "url"      : "/Why-I-Love-You/",
+      "date"     : "Oct 23, 2022",
+      "image"    : "/images/fall-maple.jpg"
+    } ,
+  
+    {
+      "title"    : "The Last Day",
+      "category" : "",
+      "tags"     : "Fiction, New York, and Work",
+      "url"      : "/The-Last-Day/",
+      "date"     : "Oct 19, 2022",
+      "image"    : "/images/new-york-rain.jpg"
+    } ,
+  
+    {
+      "title"    : "Invisible",
+      "category" : "",
+      "tags"     : "Fiction, Love, and College",
+      "url"      : "/Invisible/",
+      "date"     : "Sep 19, 2022",
+      "image"    : "/images/road_fall.jpg"
+    } ,
+  
+    {
       "title"    : "New York, February 1930",
       "category" : "",
       "tags"     : "Fiction, Time Travel, and New York",
@@ -106,6 +142,15 @@
       "url"      : "/Youll-get-over-it/",
       "date"     : "Oct 21, 2021",
       "image"    : "/images/rain.jpg"
+    } ,
+  
+    {
+      "title"    : "In the (other) Heights",
+      "category" : "",
+      "tags"     : "Essay, New York, and Washington Heights",
+      "url"      : "/In-the-other-heights/",
+      "date"     : "Sep 29, 2021",
+      "image"    : "/images/wahi.jpg"
     } ,
   
     {
