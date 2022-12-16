@@ -3,7 +3,7 @@
     {
       "title"    : "Job Interview",
       "category" : "",
-      "tags"     : "Fiction, Impostor Syndrome, and Dream",
+      "tags"     : "Fiction, Impostor-Syndrome, and Dream",
       "url"      : "/Job-Interview/",
       "date"     : "Dec 13, 2022",
       "image"    : "/images/bumper-cars.jpg"
@@ -21,7 +21,7 @@
     {
       "title"    : "The Last Day",
       "category" : "",
-      "tags"     : "Fiction, New York, and Work",
+      "tags"     : "Fiction, New-York, and Work",
       "url"      : "/The-Last-Day/",
       "date"     : "Oct 19, 2022",
       "image"    : "/images/new-york-rain.jpg"
@@ -39,7 +39,7 @@
     {
       "title"    : "New York, February 1930",
       "category" : "",
-      "tags"     : "Fiction, Time Travel, and New York",
+      "tags"     : "Fiction, Time-Travel, and New-York",
       "url"      : "/Lorca/",
       "date"     : "Jun 1, 2022",
       "image"    : "/images/new-york-1930.jpg"
@@ -75,7 +75,7 @@
     {
       "title"    : "Movie Night",
       "category" : "",
-      "tags"     : "Essay, Star Wars, and Family",
+      "tags"     : "Essay, Star-Wars, and Family",
       "url"      : "/Movie-Night/",
       "date"     : "Apr 9, 2022",
       "image"    : "/images/empire-back.jpg"
@@ -102,7 +102,7 @@
     {
       "title"    : "Jane and the time traveler",
       "category" : "",
-      "tags"     : "Fiction, Time Travel, and Jane Austen",
+      "tags"     : "Fiction, Time-Travel, and Jane-Austen",
       "url"      : "/Jane-and-the-time-traveler/",
       "date"     : "Feb 6, 2022",
       "image"    : "/images/tea-vintage.jpg"
@@ -120,7 +120,7 @@
     {
       "title"    : "Strobe Lights",
       "category" : "",
-      "tags"     : "Fiction, Vampires, and Fan Fiction",
+      "tags"     : "Fiction, Vampires, and FanFiction",
       "url"      : "/strobe-lights/",
       "date"     : "Dec 31, 2021",
       "image"    : "/images/rosedeath.jpg"
@@ -129,7 +129,7 @@
     {
       "title"    : "Remember that happiness is a way of travel, not a destination",
       "category" : "",
-      "tags"     : "Poetry and Impostor Syndrome",
+      "tags"     : "Poetry and Impostor-Syndrome",
       "url"      : "/Impostor-Syndrome/",
       "date"     : "Nov 24, 2021",
       "image"    : "/images/impostor-syndrome.jpg"
@@ -147,7 +147,7 @@
     {
       "title"    : "In the (other) Heights",
       "category" : "",
-      "tags"     : "Essay, New York, and Washington Heights",
+      "tags"     : "Essay, New-York, and Washington-Heights",
       "url"      : "/In-the-other-heights/",
       "date"     : "Sep 29, 2021",
       "image"    : "/images/wahi.jpg"
@@ -156,7 +156,7 @@
     {
       "title"    : "In a Galaxy far, far away",
       "category" : "",
-      "tags"     : "Poetry, Star Wars, Carrie Fisher, and Princess Leia",
+      "tags"     : "Poetry, Star-Wars, Carrie-Fisher, and Princess-Leia",
       "url"      : "/In-a-galaxy-far-away/",
       "date"     : "Aug 29, 2021",
       "image"    : "/images/princess-leia.jpg"

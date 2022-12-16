@@ -3,7 +3,7 @@ layout: post
 title:  In the (other) Heights
 date:   2021-09-29 18:05:55 +0300
 image:  '/images/wahi.jpg'
-tags:   [Essay, New York, Washington Heights]
+tags:   [Essay, New-York, Washington-Heights]
 ---
 No tourists visiting the city that never sleeps adventure themselves into Washington Heights unless getting terribly lost or confused by the callous New York City subway system. Presided by the most unnoticed bridge in Manhattan, Washington Heights stockpiles uneven rows of mucky brown buildings crowded with insignificant brown souls who can’t afford the promises of the city of dreams.
 

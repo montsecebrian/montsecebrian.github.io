@@ -3,7 +3,7 @@ layout: post
 title:  Strobe Lights
 date:   2021-12-31 15:01:35 +0300
 image:  '/images/rosedeath.jpg'
-tags:   [Fiction, Vampires, Fan Fiction]
+tags:   [Fiction, Vampires, FanFiction]
 ---
 Neat as a button in a black lavish suit, humming You Sexy Thing, and relishing on his disarming simile in front of the mirror, Francis knew he would break the rules that night. Again.
 
