@@ -130,9 +130,6 @@
 <loc>http://localhost:4000/tags/fast-ai/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/tag/fiction</loc>
-</url>
-<url>
 <loc>http://localhost:4000/tags/fitness/</loc>
 </url>
 <url>
@@ -359,9 +356,6 @@
 </url>
 <url>
 <loc>http://localhost:4000/tag/work/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/tag/fiction/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/tag/dream/</loc>
