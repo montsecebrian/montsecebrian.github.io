@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Three learnings from “The Princess Bride”
+title:  I don't think Yoda is a stellar leader and mentor
 date:   2023-04-15 15:01:35 +0300
 image:  '/images/empire-back-2.jpg'
 tags:   [Project-Management, Star-Wars]
