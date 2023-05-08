@@ -47,6 +47,11 @@
   }
 }
 
+img[src*='#center'] {
+  display: block;
+  margin: auto;
+}
+
 .post__meta {
   display: flex;
   align-items: center;

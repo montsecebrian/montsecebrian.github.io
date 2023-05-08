@@ -28,7 +28,7 @@ If you are being agile (note, *be* agile, not *do* agile), you won’t prepare a
 
 When making a *castell*, a leader on the floor (*cap de colla)* orchestrates the build. The *cap de colla* guides the team on who must start climbing and when. They also motivate and encourage the team. Folks in the tower don't know the full extent of what is happening, but the *cap de colla* does, and will ensure that everyone is in the correct position and, most importantly, is safe.
 
-![img]({{site.baseurl}}/images/castellers3.jpg)
+![img]({{site.baseurl}}/images/castellers3.jpg#center)
 
 I know, I know… the last thing we want in a project is people who only act when they are told to, but bear with me here when I focus on leadership, guidance, and motivation. The *cap the colla* will guide on what to do and encourage the team to keep going, especially if they are in pain and struggling with balance and weight.
 
