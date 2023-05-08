@@ -1,6 +1,24 @@
 [
   
     {
+      "title"    : "Three learnings from “The Princess Bride”",
+      "category" : "",
+      "tags"     : "Project-Management and Star-Wars",
+      "url"      : "/Yoda-mentor/",
+      "date"     : "Apr 15, 2023",
+      "image"    : "/images/empire-back-2.jpg"
+    } ,
+  
+    {
+      "title"    : "Three learnings from “The Princess Bride”",
+      "category" : "",
+      "tags"     : "Project-Management and The-Princess-Bride",
+      "url"      : "/the-princess-bride/",
+      "date"     : "Apr 15, 2023",
+      "image"    : "/images/the-princess-bride-1.jpg"
+    } ,
+  
+    {
       "title"    : "What Human Towers or &quot;Castells&quot; teach us about Project Management",
       "category" : "",
       "tags"     : "Project-Management, Castellers, and Catalonia",

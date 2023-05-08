@@ -11,9 +11,9 @@ url: "https://www.montsecebrian.net" # the base hostname & protocol for your sit
 # Author Settings
 author:
   name: Montse Cebrian
-  image: '/images/Montse_Headshot_small.jpg'
-  avatar: '/images/Montse_Headshot_small.jpg'
-  description: Hello! My name is Montse. I was born in Barcelona, then adopted by New York. I write stories and I manage projects.
+  image: '/images/avatar_montse.jpg'
+  avatar: '/images/avatar_montse.jpg'
+  description: Born in Barcelona, then adopted by New York. Pop Culture fiend, never foe. I manage projects, and I write things. #OpenToWork
 
 
 #-------------------------------
@@ -23,7 +23,8 @@ author:
 # Other icons can be found at https://ionicons.com/v4/
 contact:
 - {name: "Twitter", icon: "ion-logo-twitter", link: "https://twitter.com/Montsinya"}
-- {name: "Facebook", icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/montsecebrian/"}
+- {name: "Linkedin", icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/montsecebrian/"}
+- {name: "Substack", icon: "ion-logo-substack", link: "https://popcultureguidetopm.substack.com/"}
 
 
 #-------------------------------

@@ -50,7 +50,7 @@ Anything else? Yes! If, for whatever reason, the team had to introduce technical
 
 Human towers often collapse. Bad injuries are rare, but no *castell* is attempted without an ambulance near the site. Also, kids wear helmets to avoid head concussions. 
 
-![img]({{site.baseurl}}/images/castellers2.jpg)
+![img]({{site.baseurl}}/images/castellers2.jpg#center)
 
 This is basic risk management like in any other project: in this case, risks are accepted (if you fall, you fall) or mitigated (helmets, ambulances). Sometimes risks are avoided: if the *cap de colla* sees structural problems that may put team members in danger, they will request that the *castell* is dismantled.
 
@@ -63,3 +63,7 @@ If anything, *castells* require teamwork. The tower won’t build if team member
 While physical contact on a human tower would be highly inappropriate in an office environment, team members must help and support each other when working on a project. They must work together, frequently under pressure and seeing the other team members' best and worst. Most of the time, it’s inspiring and rewarding; sometimes, it is remarkably hard. 
 
 But remember: almost always, it is worth it.
+
+------
+
+Do you want to receive posts like this one in your inbox every week?  [Subscribe to my newsletter!](https://popcultureguidetopm.substack.com/)! 

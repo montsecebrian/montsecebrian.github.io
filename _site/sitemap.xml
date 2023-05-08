@@ -77,6 +77,14 @@
 <lastmod>2023-04-01T08:01:35-04:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/the-princess-bride/</loc>
+<lastmod>2023-04-15T08:01:35-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/Yoda-mentor/</loc>
+<lastmod>2023-04-15T08:01:35-04:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about/</loc>
 </url>
 <url>
@@ -168,6 +176,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/tag/catalonia/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tag/the-princess-bride/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/page/2/</loc>
