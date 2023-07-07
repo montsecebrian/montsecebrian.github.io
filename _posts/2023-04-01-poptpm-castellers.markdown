@@ -3,7 +3,7 @@ layout: post
 title:  What Human Towers or "Castells" teach us about Project Management
 date:   2023-04-01 15:01:35 +0300
 image:  '/images/castellers1.jpg'
-tags:   [Project-Management, Castellers, Catalonia]
+tags:   [Project-Management,Leadership]
 ---
 
 There’s this beautiful Catalan tradition named “Human Towers” or *Castells*. Yup! Your insight serves you well! It consists of the assembling and disassembling of human towers, that is, towers made out of humans. It requires strength, skill, balance, courage, and vast amounts of teamwork. To me, folks in a *Castell* are very much like the Avengers.

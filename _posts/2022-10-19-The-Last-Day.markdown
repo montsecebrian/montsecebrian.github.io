@@ -3,7 +3,7 @@ layout: post
 title:  The Last Day
 date:   2022-10-19 15:01:35 +0300
 image:  '/images/new-york-rain.jpg'
-tags:   [Fiction, New-York, Work]
+tags:   [Fiction, New-York]
 ---
 
 I was annoyed I had to return to the office on that last day. Precisely on that last day. 

@@ -3,7 +3,7 @@ layout: post
 title:  Fear
 date:   2022-04-01 15:01:35 +0300
 image:  '/images/fear.jpg'
-tags:   [Fiction, War]
+tags:   [Fiction]
 ---
 I am not deaf. I wish I was, so I would not hear the sky wailing and the earth roaring. First the wail, then the roar. Heaven wailing like a wounded witch, hell roaring like an angry volcano. I hear them, witch and volcano, closer and closer, slowly but surely coming for me.
 

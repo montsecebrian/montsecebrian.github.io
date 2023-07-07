@@ -3,7 +3,7 @@ layout: post
 title:  Losers
 date:   2022-05-30 15:01:35 +0300
 image:  '/images/soccer-ball.jpg'
-tags:   [Fiction, Sports]
+tags:   [Fiction]
 ---
 Empty-handed, eyes fixed on the grass, some of them walk slowly back to the locker room. Some others are squatting in the middle of the field. Their head buried in their hands. Their tears mixing with sweat that is fresh. Their hearts still racing because of the running, or because of something else. Crying men in damp jerseys, they pat each other’s heads, then they hug, in silence.
 

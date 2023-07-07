@@ -3,7 +3,7 @@ layout: post
 title:  Meeting the in-laws
 date:   2022-05-01 15:01:35 +0300
 image:  '/images/suburbs.jpg'
-tags:  [Fiction, Family]
+tags:  [Fiction]
 ---
 Am I going to marry him? Of course, I am going to marry him! See, you meet this guy on OkCupid. You have a casual coffee date. You talk, you smile, you scan him mentally and physically to make sure he checks all the boxes -at your age and in New York City you can’t fool around anymore.- You drink, you walk, you have dinner, you kiss, you have sex, then you eat the breakfast he cooks, a tad spicy, but you get used to it after a few weeks, and one day you find yourself naming your imaginary kids in your head -little Lizzy and little Louis.-
 

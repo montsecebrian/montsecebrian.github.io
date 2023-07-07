@@ -3,7 +3,7 @@ layout: post
 title:  Jane and the time traveler
 date:   2022-02-06 15:01:35 +0300
 image:  '/images/tea-vintage.jpg'
-tags:   [Fiction, Time-Travel, Jane-Austen]
+tags:   [Fiction, Jane-Austen]
 ---
 Young, witty Jane reluctantly put away the book she was reading and stood up graciously to receive her unexpected morning call. Jane wasn’t precisely pleased, but it was of the utmost importance that she caved in to her visitor’s yet-undisclosed but critical requests. The future of humanity depended on it, said the time traveler to herself as she breathed in and stepped into the Austens drawing-room on that December morning of 1795, disguised as an acquaintance of an acquaintance.
 

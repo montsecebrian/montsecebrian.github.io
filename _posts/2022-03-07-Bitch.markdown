@@ -3,7 +3,7 @@ layout: post
 title:  Bitch
 date:   2022-03-07 15:01:35 +0300
 image:  '/images/pina-colada-beach.jpg'
-tags:   [Essay, Family, Inmigrants]
+tags:   [Essay,New-Work]
 ---
 You could have enjoyed three months in the Bahamas drinking Piña Coladas with the money you have spent on accent reduction classes. Yet you still speak like Sofia Vergara.
 

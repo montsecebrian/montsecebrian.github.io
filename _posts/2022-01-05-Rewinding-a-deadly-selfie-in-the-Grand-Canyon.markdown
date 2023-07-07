@@ -3,7 +3,7 @@ layout: post
 title:  Rewinding a deadly selfie in the Grand Canyon
 date:   2022-01-05 15:01:35 +0300
 image:  '/images/colorado.jpg'
-tags: [Poetry, Death, Colorado]
+tags: [Poetry]
 ---
 Blood. Then less blood. Multiple bone pieces become one again.
 

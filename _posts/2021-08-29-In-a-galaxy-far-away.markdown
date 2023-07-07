@@ -3,7 +3,7 @@ layout: post
 title:  In a Galaxy far, far away
 date:   2021-08-29 18:05:55 +0300
 image:  '/images/princess-leia.jpg'
-tags:   [Poetry, Star-Wars, Carrie-Fisher, Princess-Leia]
+tags:   [Poetry, Star-Wars]
 ---
 You are the princess in white, like a Greek sculpture
 carved in marble.

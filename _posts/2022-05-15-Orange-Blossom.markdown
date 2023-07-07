@@ -3,7 +3,7 @@ layout: post
 title:  Orange Blossom
 date:   2022-05-15 15:01:35 +0300
 image:  '/images/bakery.jpg'
-tags:   [Fiction, Baking]
+tags:   [Fiction]
 ---
 *Dorothy Dunnett lovers will appreciate the nod at the end*
 

@@ -3,7 +3,7 @@ layout: post
 title:  You'll get over it
 date:   2021-10-21 15:01:35 +0300
 image:  '/images/rain.jpg'
-tags:   [Poetry, Rejection]
+tags:   [Poetry]
 ---
 You are going to be rejected. Get used to it.
 

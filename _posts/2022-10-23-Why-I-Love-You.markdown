@@ -3,7 +3,7 @@ layout: post
 title:  Why I Love You
 date:   2022-10-23 15:01:35 +0300
 image:  '/images/fall-maple.jpg'
-tags:   [Fiction, Love]
+tags:   [Fiction]
 ---
 
 Because a dream is something no one should be able to touch, and every second of every minute, someone, somewhere, is crying, and someone, somewhere, is falling in love. 

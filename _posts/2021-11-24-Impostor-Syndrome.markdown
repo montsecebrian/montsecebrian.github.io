@@ -3,7 +3,7 @@ layout: post
 title:  Impostor Syndrome
 date:   2021-11-24 15:01:35 +0300
 image:  '/images/impostor-syndrome.jpg'
-tags:   [Poetry, Impostor-Syndrome]
+tags:   [Poetry]
 ---
 
 1.

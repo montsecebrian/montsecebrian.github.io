@@ -3,7 +3,7 @@ layout: post
 title:  Three learnings from “The Princess Bride”
 date:   2023-04-15 15:01:35 +0300
 image:  '/images/the-princess-bride-1.jpg'
-tags:   [Project-Management, The-Princess-Bride]
+tags:   [Project-Management]
 ---
 
 First of all, if you have not watched [The Princess Bride](https://www.imdb.com/title/tt0093779/), stop reading this right away and redress the situation. I mean it. Do it. Now!

@@ -3,7 +3,7 @@ layout: post
 title:  Invisible
 date:   2022-09-19 15:01:35 +0300
 image:  '/images/road_fall.jpg'
-tags:   [Fiction, Love, College]
+tags:   [Fiction]
 ---
 
 Wait, let me explain…

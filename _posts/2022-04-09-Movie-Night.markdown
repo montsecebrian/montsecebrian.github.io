@@ -3,7 +3,7 @@ layout: post
 title:  Movie Night
 date:   2022-04-09 15:01:35 +0300
 image:  '/images/empire-back.jpg'
-tags:   [Essay, Star-Wars, Family]
+tags:   [Essay, Star-Wars]
 ---
 There was a pizza in the oven and custard in the fridge. That didn’t happen often, and could only mean one very exciting thing. 
 

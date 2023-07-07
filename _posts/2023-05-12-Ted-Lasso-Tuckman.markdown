@@ -2,13 +2,11 @@
 layout: post
 title:  Ted Lasso and the Tuckman model for teams
 date:   2023-05-12 15:01:35 +0300
-image:  '/images/ted-lasso-2.jpg'
-tags:   [Project-Management, Ted-Lasso]
+image:  '/images/ted-lasso-1.jpg'
+tags:   [Project-Management, Leadership]
 ---
 
-Hi there! So good to be here!
-
-I need to start this with some housekeeping: 
+Yes! I am going to talk about teamwork in the TV show Ted Lasso, but let's start with some housekeeping: 
 
 1. You don’t need to have seen [Ted Lasso](https://www.imdb.com/title/tt10986410/) to understand and enjoy this text. 
 2. I won’t get into [Ted Lasso](https://www.imdb.com/title/tt10986410/)'s plot details as my references will be general. However, if you are very, exceptionally super spoiler-phobic (I respect you), it may be appropriate that you come back after you watch the 9th episode of season 3 (aka the one that is pretty good after a kind of irregular season)
