@@ -24,7 +24,7 @@ author:
 contact:
 - {name: "Twitter", icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/montsecebrian/"}
 - {name: "Twitter", icon: "ion-logo-twitter", link: "https://twitter.com/Montsinya"}
-- {name: "Substack", icon: "ion-icon-paper-plane", link: "https://popcultureguidetopm.substack.com/"}
+- {name: "Substack", icon: "ion-md-paper-plane", link: "https://popcultureguidetopm.substack.com/"}
 
 #-------------------------------
 # Comment Section (Disqus)
