@@ -13,7 +13,7 @@ author:
   name: Montse Cebrian
   image: '/images/avatar_montse.jpg'
   avatar: '/images/avatar_montse.jpg'
-  description: Born in Barcelona, then adopted by New York. Pop Culture fiend, never foe. I manage projects, and I write things.
+  description: Born in Barcelona, then adopted by New York. Pop Culture fiend, never foe. I manage technical programs and write a Pop Culture and Project Management newsletter. Check my experience on LinkedIn and subscribe to my newsletter through the paper plane icon below.
 
 
 #-------------------------------
@@ -23,7 +23,6 @@ author:
 # Other icons can be found at https://ionicons.com/v4/
 contact:
 - {name: "Twitter", icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/montsecebrian/"}
-- {name: "Twitter", icon: "ion-logo-twitter", link: "https://twitter.com/Montsinya"}
 - {name: "Substack", icon: "ion-md-paper-plane", link: "https://popcultureguidetopm.substack.com/"}
 
 #-------------------------------
