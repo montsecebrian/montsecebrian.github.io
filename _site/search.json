@@ -1,6 +1,60 @@
 [
   
     {
+      "title"    : "Procrastinators, the leaders of tomorrow (no, not really)",
+      "category" : "",
+      "tags"     : "Project-Management",
+      "url"      : "/Procrastinators/",
+      "date"     : "Jul 7, 2023",
+      "image"    : "/images/procrastination01.jpg"
+    } ,
+  
+    {
+      "title"    : "‘The Bear,’ lessons on leadership and management - Part 2",
+      "category" : "",
+      "tags"     : "Project-Management and Leadership",
+      "url"      : "/The-Bear-Part-2/",
+      "date"     : "Jun 30, 2023",
+      "image"    : "/images/thebear04.jpg"
+    } ,
+  
+    {
+      "title"    : "‘The Bear,’ lessons on leadership and management - Part 1",
+      "category" : "",
+      "tags"     : "Project-Management and Leadership",
+      "url"      : "/The-Bear-Part-1/",
+      "date"     : "Jun 23, 2023",
+      "image"    : "/images/thebear01.jpg"
+    } ,
+  
+    {
+      "title"    : "Enemies to lovers. Turn difficult stakeholders into powerful partners",
+      "category" : "",
+      "tags"     : "Project-Management",
+      "url"      : "/Crisis-Management/",
+      "date"     : "Jun 16, 2023",
+      "image"    : "/images/enemies-to-lovers.jpg"
+    } ,
+  
+    {
+      "title"    : "Manage a Crisis like a Pro",
+      "category" : "",
+      "tags"     : "Project-Management",
+      "url"      : "/Enemies-to-lovers/",
+      "date"     : "Jun 9, 2023",
+      "image"    : "/images/crisis1.png"
+    } ,
+  
+    {
+      "title"    : "“Succession” - Don’t try this at home",
+      "category" : "",
+      "tags"     : "Project-Management and Leadership",
+      "url"      : "/Succession/",
+      "date"     : "Jun 1, 2023",
+      "image"    : "/images/succession01.png"
+    } ,
+  
+    {
       "title"    : "Look up! Your technical debt is coming to kill you!",
       "category" : "",
       "tags"     : "Project-Management and Technical-Debt",
