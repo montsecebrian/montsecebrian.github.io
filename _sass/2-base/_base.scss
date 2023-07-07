@@ -137,6 +137,15 @@ a {
   }
 }
 
+p a {
+  text-decoration: none;
+  color: #00c9cc;
+  transition: $global-transition;
+  &:hover {
+      color: darken(#00c9cc, 15%);
+  }
+}
+
 hr {
   display: block;
   height: 1px;

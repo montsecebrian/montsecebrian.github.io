@@ -2,7 +2,7 @@
 # General Site Settings
 title: Montse Cebrian
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Montse Cebrian personal site. Project Management. Short Stories.
+description: Montse Cebrian personal site. Project Management. Program Management. Short Stories.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.montsecebrian.net" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -13,7 +13,7 @@ author:
   name: Montse Cebrian
   image: '/images/avatar_montse.jpg'
   avatar: '/images/avatar_montse.jpg'
-  description: Born in Barcelona, then adopted by New York. Pop Culture fiend, never foe. I manage projects, and I write things. #OpenToWork
+  description: Born in Barcelona, then adopted by New York. Pop Culture fiend, never foe. I manage projects, and I write things.
 
 
 #-------------------------------
@@ -22,12 +22,9 @@ author:
 # Example of adding a new link to the footer - {icon: "ion-logo-github", link: "https://github.com"}
 # Other icons can be found at https://ionicons.com/v4/
 contact:
-#- {name: "Substack", icon: "ion-mail-outline", link: "https://popcultureguidetopm.substack.com/"}
-- {name: "Linkedin", icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/montsecebrian/"}
-#- {name: "Substack", icon: "ion-logo-substack", link: "https://popcultureguidetopm.substack.com/"}
-#- {name: "Twitter", icon: "ion-logo-twitter", link: "https://twitter.com/Montsinya"}
-
-
+- {name: "Twitter", icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/montsecebrian/"}
+- {name: "Twitter", icon: "ion-logo-twitter", link: "https://twitter.com/Montsinya"}
+- {name: "Facebook", icon: "ion-logo-paper-plane", link: "https://popcultureguidetopm.substack.com/"}
 
 #-------------------------------
 # Comment Section (Disqus)
