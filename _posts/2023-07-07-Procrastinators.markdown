@@ -2,7 +2,7 @@
 layout: post
 title:  Procrastinators, the leaders of tomorrow (no, not really)
 date:   2023-07-07 15:01:35 +0300
-image:  '/images/procrastination01.jpg'
+image:  '/images/procrastination04.jpg'
 tags:   [Project-Management]
 ---
 
