@@ -6,7 +6,7 @@ image:  '/images/thebear01.jpg'
 tags:   [Project-Management,Leadership]
 ---
 
-The first season of [The Bear](https://www.imdb.com/title/tt14452776/) starts with Carmen, a young but promising *haute cuisine* chef, returning to Chicago to take over the family’s shithole sandwich shop after the death of his brother. Carmen finds himself trying to manage an indebted business, a worn-out kitchen, and a few disorderly workers.
+The first season of [The Bear](https://www.imdb.com/title/tt14452776/) starts with Carmen, a young but promising *haute cuisine* chef, returning to Chicago to take over the family’s ~~shithole~~ sandwich shop after the death of his brother. Carmen finds himself trying to manage an indebted business, a worn-out kitchen, and a few disorderly workers.
 
 ![img]({{site.baseurl}}/images/thebear01.jpg#center)
 

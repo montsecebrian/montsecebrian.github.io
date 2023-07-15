@@ -1,74 +1,51 @@
 ---
 layout: post
-title:  Procrastinators, the leaders of tomorrow (no, not really)
-date:   2023-07-07 15:01:35 +0300
-image:  '/images/procrastination04.jpg'
+title:  This meeting could have been an email
+date:   2023-07-14 15:01:35 +0300
+image:  '/images/meeting01.jpg'
 tags:   [Project-Management]
 ---
 
-![img]({{site.baseurl}}/images/procrastination01.jpg#center)
+![img]({{site.baseurl}}/images/meeting01.jpg#center)
 
-Procrastination is the action (or inaction, lol) of delaying or postponing something, and we have many examples in pop culture (you start thinking about them, I am going to list some in a bit). **Procrastination is pretty frequent and instantly gratifying, but if you, my dear reader, want to be a successful project/program manager, you can’t afford to be a procrastinator,** not a big one, at least. In this post, I am going to remember some famous procrastinators. I will explain why I procrastinated in the past (and sometimes in the present, I am human, after all), and I will finish with some techniques that help me overcome procrastination. Disclaimer: I am not a psychologist, anthropologist, or sociologist, so this will be based on my personal and professional experience. You have been warned 🙂. 
+Today I will piggyback on last week’s [Ron Swanson ~~extravaganza~~ problem with meetings](https://www.youtube.com/watch?v=XhulR_kJf7Y). If you missed it, you need to know that I used, [as a procrastination example](https://popcultureguidetopm.substack.com/p/procrastinators-the-leaders-of-tomorrow), the episode where April schedules more than 90 meetings for March 31st, believing that day doesn’t exist. 
 
-# The procrastinators
+Now it is time to focus on meetings and, most importantly, on avoiding the most meme’d comment in the history of office space: 
 
-This will not be an exhaustive list, just some examples that come to mind. Feel free to add more in the comments if you want!
+![img]({{site.baseurl}}/images/meeting02.jpg#center)
 
-Ok, one of the first examples that come to mind when thinking of procrastination is Scarlett O’Hara in [Gone With the Wind](https://www.imdb.com/title/tt0031381/).
+You will also get to learn one of my biggest pet peeves. The one that triggers me the most and makes my head grow grey hair whenever I face it. I won’t spoil it. Not just yet.
 
-<iframe src="https://www.youtube-nocookie.com/embed/YYj0M19Ap34?start=104&amp;rel=0&amp;autoplay=0&amp;showinfo=0&amp;enablejsapi=0" frameborder="0" loading="lazy" gesture="media" allow="autoplay; fullscreen" allowautoplay="true" allowfullscreen="true" width="728" height="409" style="--tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / 0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; display: block; top: 0px; left: 0px; margin: 0px; padding: 0px; height: 409.5px; width: 728px; background-color: rgb(247, 247, 247);"></iframe>
+Back to [Ron, April, and the crew](https://www.youtube.com/watch?v=XhulR_kJf7Y). They have to deal with a bunch of folks that requested a meeting so that they could petition something. **All those meetings could have been an email**. However, something tells me that Ron *et al* would not reply to an email to solve a problem even if their life depended on it, lol. **Meetings can only be emails if email recipients actually read and reply to those emails when requested**, so before getting snarky and funny with comments about meetings and emails, invest a couple of seconds introspecting what part you are playing to improve (or worsen) the situation.
 
-Yes, Scarlett is a force of nature, a human whirlwind, strong and resilient. She also tends to deal with difficult situations with her famous *I’ll think about it tomorrow*. Dang, [Gone With the Wind](https://www.imdb.com/title/tt0031381/) ends with Scarlett saying it after Rhett leaves her! If you watch the video above, it won’t escape you that *tomorrow* brings comfort and hope, so the movie ends on a high note. After all, tomorrow will be another day full of possibilities, so there is no need to deal with shit today. **Procrastinating,** ***aka*** **postponing things to tomorrow, brings immediate joy. It is gratifying**.
+![img]({{site.baseurl}}/images/meeting03.webp#center)
 
-Let’s see now another example of gratifying *tomorrow*. Probably the most famous song about it: 
+# I do think I need a meeting!
 
-<iframe src="https://www.youtube-nocookie.com/embed/6PtdpI-D6mM?start=6&amp;rel=0&amp;autoplay=0&amp;showinfo=0&amp;enablejsapi=0" frameborder="0" loading="lazy" gesture="media" allow="autoplay; fullscreen" allowautoplay="true" allowfullscreen="true" width="728" height="409" style="--tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / 0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; display: block; top: 0px; left: 0px; margin: 0px; padding: 0px; height: 409.5px; width: 728px; background-color: rgb(247, 247, 247);"></iframe>
+Before scheduling a meeting, we should always ask ourselves:
 
-Same pattern: there’s a complex problem to solve, folks are worried, Annie is sad. No problem! Let’s think about *tomorrow*, that magical well of hope where all productivity dies!
+1. What do I need?
+2. Can I get #1 via mail or whatever IM tool the team uses?
 
-*Open parenthesis - I added a clip from the [1982 version of Annie](https://www.imdb.com/title/tt0083564/) because I thought it would be the most recognizable. However, integrity, morals, and honor force me to state here that, IMHO, [the best version of Annie is the one from 1999](https://www.imdb.com/title/tt0207972/). Just take a look at the [cast](https://www.imdb.com/title/tt0207972/fullcredits?ref_=tt_cl_sm) if you don’t believe me! - Close parenthesis.*
+Let’s suppose you do need a meeting. Then ask yourself again: **What do I need? How will the universe (my universe) be a better place after the meeting? What do I want to have acquired once the meeting is over?** This will be your goal, and you must work relentlessly to achieve it. When you schedule the meeting, run it, and recap it, always remember the goal.
 
-I am going to share now the final example. This one is from this century, don’t worry 🙂. Here we see the consequences of procrastinating and a hint at how to prevent procrastination. Enter [Parks and Recreation](https://www.imdb.com/title/tt1266020/) and the amazing Ron Swanson, April Ludgate, and Leslie Knope. Ron Swanson has an allergy to meetings, so April schedules them all for March 31st, believing that day doesn’t exist. When the day comes, Ron must figure out how to escape the mess.
+If there is only one thing you will take from this article, let it be this one: **you need to be clear on the goal, then keep it in mind when you prepare, run, and recap the meeting. At every step along the process, you will need to constantly act in a way that gets you near your goal**. You must be super intentional when selecting the attendees, writing the agenda, finding a time and place, starting the meeting, keeping it on track, closing, and recapping it.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XhulR_kJf7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Note: intentional and relentless don’t mean rude; quite the opposite. When we make everyone comfortable during the meeting, agreement and alignment come more efficiently and smoothly.
 
-Here we see how procrastinating has terrible (or at least very annoying) consequences. **We never escape procrastinating. What we don’t do comes back stronger to kick us in the ass**. The exciting thing about this video is that Ron deals with the problem by delegating as much as possible. More on this later 🙂.
+Maybe this is an excellent time to share my major pet peeve: **I HATE seeing meeting titles that start with “discuss.”** IMO, the meeting title should be very close to the goal, and the goal is never to “discuss,” the goal usually is to align, define, learn, or produce something (and more). **“Discuss” is just the vehicle to achieve the goal, not the goal itself**, and when I see it on a title, I start to suspect that the meeting creator is not being intentional enough. Then I fear that maybe (only maybe) the meeting will end without clear outcomes or action items, and we will end up needing another meeting, and folks will get frustrated and say:
 
-# Why do we procrastinate, anyway?  
+![img]({{site.baseurl}}/images/meeting04.jpg#center)
 
-There are a million articles out there dedicated to procrastination. The one I relate to the most is [Why You Procrastinate (It Has Nothing to Do With Self-Control)](https://www.nytimes.com/2019/03/25/smarter-living/why-you-procrastinate-it-has-nothing-to-do-with-self-control.html). So, basically, when we procrastinate, it is not (only) a result of laziness or poor time management. Guess what? It is because of challenging emotions and negative moods induced by the task we are trying to accomplish. In a nutshell: **we are not lazy. It is just that our brain is regulating emotions such as boredom, anxiety, insecurity, frustration, and self-doubt**. The relief experienced in the moment of procrastination reinforces the behavior, leading to a vicious cycle. 
+# How do I make sure my meeting is successful?
 
-The article doesn’t say this, but it is like if our very primitive brain feels danger coming from the undone tasks, then it thinks we are going to die, so it runs away from the danger.
+The world doesn’t need that I put on my smartypants dress and list some tips for successful meetings when others have already done it very successfully. You can google it and/or trust me and look at [these tips for effective meetings](https://www.shinecoachingbarcelona.com/en/tips-agenda-effective-meetings/). **Observe how every single step has the goal in mind!** They are great tips, read the article, pretty please.
 
-![img]({{site.baseurl}}/images/procrastination02.jpg#center)
+One more thing before I shut up. Well, two:
 
-Back to the article now. Procrastination has measurable adverse effects on mental and physical health, including chronic stress, psychological distress, symptoms of depression and anxiety, poor health behaviors, chronic illness, and cardiovascular disease. So, basically, we get instant gratification from running away from danger, but our brain knows the tasks are still there. Even if it is in a dark corner of our brain, the tasks exist, causing mental pain. And we don’t want to be in pain at -or because of- work, do we?
+First, this applies to big meetings where consensus, alignment, or decision is needed. Regular check-ins with your team, manager, or report, informal or impromptu gatherings with a small group, or even training or webinar-type sessions may escape some of these [tips for effective meetings](https://www.shinecoachingbarcelona.com/en/tips-agenda-effective-meetings/) (you still need a clear goal, tho). Apply common sense (and remember your goal), and you’ll be ok.
 
-The article suggests practicing self-forgiveness and self-compassion as strategies to manage procrastination, finding alternative rewards, and treating ourselves with kindness and understanding. While I don’t disagree, other strategies have also worked for me. 
-
-# Procrastinate no more!
-
-This is very personal. What works for me may not work for you. I’ll just share what I do, and you pick (or not) the parts that you find interesting.
-
-**The task is not going to kill me**
-
-When I procrastinate, it usually is because the task is challenging and scares me, so my brain thinks it will kill me. I have to constantly tell my brain that the task is NOT going to kill me and that the worst that can happen if I royally fuck it up is, like, nothing. Impostor syndrome plays a part here, but I’ll talk about that another day.
-
-**I can always Ron Swanson it and delegate**
-
-Another reason to procrastinate is actually the opposite: the task is boring and not challenging at all. If you can delegate the task, it may be an opportunity for growth for someone else. Don’t delegate just dumping the task to someone else. Invest time in guiding and coaching, then follow up and provide feedback, and in no time, you won’t have to worry about that task.
-
-![img]({{site.baseurl}}/images/procrastination03.jpg#center)
-
-**Check-lists, prioritization**
-
-When I procrastinate, the undone tasks don’t disappear from my head. They are there, lurking, menacing, preventing me from enjoying my free time, my *[Alias](https://www.imdb.com/title/tt0285333/)* binge-rewatching, and my coffees with friends. Scary tasks (mostly) disappear from my head if I put them somewhere else, like a checklist. I acknowledge everything I have to do and put it on a list. Then I prioritize them. I usually use a very lightweight [urgent vs. important matrix](https://medium.com/swlh/how-to-master-your-priorities-with-the-urgent-important-matrix-a7904de55266) that also helps me figure out the stuff I need to work on delegating. **Once everything is written down and prioritized, my brain breathes a bit**. This list is my dear companion. I am always adding stuff, reprioritizing, and removing items already done. This list is like my backlog for my own stuff. So I treat it like that. I am the product manager of myself if you will.
-
-**Iterate!**
-
-Now that I have a backlog, guess what? I have daily standups with myself and one-week sprints. This is way less involved than you think, especially if you are familiar with Agile. On Monday morning, I have a mini sprint planning with myself. I plan the tasks that I will do, often blocking time in my calendar to ensure I have the time. At the beginning of each day, I block time for me to plan the tasks for the day. At the end of each day, I do the same to reassess how I did and prepare for the next day. This typically takes less than 15 minutes, and it is totally worth it as it removes most of the worries from my brain, and I can enjoy my evenings. On Fridays, I spend more time evaluating and re-assessing as I also perform a mini retro with myself to celebrate wins and to see what I need to change and improve.
-
-And that’s it! Some weeks are easier than others. Some days I mess up. Some days I do awesome. The key is that I know where the temptation of procrastinating comes from, I know how to fight it, and I always introspect to improve myself personally and professionally. In any case, we can always make better mistakes tomorrow 🙂.
+Second, writing this and telling you what to do is more straightforward than applying it to real-life meetings. Are all my meetings smooth and effective? Not always, to be honest. I keep in mind everything I preach, but sometimes things get out of hand. If that happens to you, be kind to yourself, introspect, learn, and make it a goal to improve. You rock!
 
 ------
 

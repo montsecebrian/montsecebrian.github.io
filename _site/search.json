@@ -1,12 +1,21 @@
 [
   
     {
-      "title"    : "Procrastinators, the leaders of tomorrow (no, not really)",
+      "title"    : "This meeting could have been an email",
       "category" : "",
       "tags"     : "Project-Management",
       "url"      : "/Procrastinators/",
+      "date"     : "Jul 14, 2023",
+      "image"    : "/images/meeting01.jpg"
+    } ,
+  
+    {
+      "title"    : "Procrastinators, the leaders of tomorrow (no, not really)",
+      "category" : "",
+      "tags"     : "Project-Management",
+      "url"      : "/Mails/",
       "date"     : "Jul 7, 2023",
-      "image"    : "/images/procrastination01.jpg"
+      "image"    : "/images/procrastination04.jpg"
     } ,
   
     {
