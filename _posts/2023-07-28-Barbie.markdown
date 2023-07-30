@@ -12,7 +12,7 @@ Connecting [Barbie](https://www.imdb.com/title/tt1517268/) to project management
 
 ![img]({{site.baseurl}}/images/barbie01.jpg#center)
 
-So this is me apologizing in advance for whatever mental ~~shart~~ pirouette will come out of my mouth fingers. Also, there will be spoilers (go watch the movie, you little slackers, it is super fun!)
+So this is me apologizing in advance for whatever mental ~~shart~~ pirouette will come out of my ~~mouth~~ fingers. Also, there will be spoilers (go watch the movie, you little slackers, it is super fun!)
 
 Months ago, the [Barbie](https://www.imdb.com/title/tt1517268/) folks released [a teaser of the 2001-like first scene](https://www.youtube.com/watch?v=8zIf0XvoL9Y) where Barbie disruptively and magnificently arrives into the world to save little girls from boring baby dolls. Before watching the movie, I thought: *could Barbie be fun Agile, and the boring baby dolls be Waterfall?* Then I thought:
 
