@@ -1,0 +1,49 @@
+---
+layout: post
+title:  Hi, Barbie!
+date:   2023-07-28 15:01:35 +0300
+image:  '/images/barbie01.jpg'
+tags:   [Project-Management]
+---
+
+Of course, it had to be Barbie this week. I can’t imagine anything more Pop-Culture-y relevant these days. Well, maybe the aliens (yay, space!) I’ll check on them next week.
+
+Connecting [Barbie](https://www.imdb.com/title/tt1517268/) to project management may prove more challenging than I originally expected. I have to confess that I did everything backward this week. I usually watch a movie or TV show, and then, at some point, a bright bulb appears over my head, and I think *oh shit! This thingy reminds me of [insert here whatever random PM or leadership stuff you have read here]*. However, some of you explicitly “asked” this week: *you will talk about [Barbie](https://www.imdb.com/title/tt1517268/), right?* 
+
+![img]({{site.baseurl}}/images/barbie01.jpg#center)
+
+So this is me apologizing in advance for whatever mental ~~shart~~ pirouette will come out of my mouth fingers. Also, there will be spoilers (go watch the movie, you little slackers, it is super fun!)
+
+Months ago, the [Barbie](https://www.imdb.com/title/tt1517268/) folks released [a teaser of the 2001-like first scene](https://www.youtube.com/watch?v=8zIf0XvoL9Y) where Barbie disruptively and magnificently arrives into the world to save little girls from boring baby dolls. Before watching the movie, I thought: *could Barbie be fun Agile, and the boring baby dolls be Waterfall?* Then I thought:
+
+![img]({{site.baseurl}}/images/barbie02.jpg#center)
+
+Yeah, it is super lame. But I kind of liked the idea of comparing Midge, the pregnant Barbie, to stuff like SAFe (that thing we did a while ago but got discontinued, and we don’t talk about it anymore, *wink wink*). I may have made a few enemies just now. Oh well, now that my enemies are here, I could also compare Barbie consumer culture to all those pretty expensive certifications that are academically so-so. Still, we need to get them so that our resume looks good. Especial mention to all those corporate folks that took Agile and turned it into a multimillion-dollar business made to sell certifications more than to help engineers (not *all* of you, but you know what I mean). All right, I better move on before I get hurt.
+
+So then I got sucked into the movie, and thank god, I forgot a little about having to write this newsletter. And that happened because [Barbie](https://www.imdb.com/title/tt1517268/) started to talk to me and about me, and it was like a warm hug from someone I love waiting for me at home after a terrible snowstorm, with a hot cup of tea scotch made of the tears of those complaining about the movie's message. 
+
+Do I think [Barbie](https://www.imdb.com/title/tt1517268/) challenges the boundaries of cinematic storytelling and feminism? Dude, I don’t know. Ask an expert. I would say “no.” Do I love how the movie embraces Barbie’s paradoxes and layers, including the good, the bad, the evident, the not-so-evident, the ugly, the beautiful, the dumb, the smart, and everything in between? You can bet I do. Do I think the movie's last third is a tad overly convoluted? Uh, yeah. 
+
+I am getting to the point, bear with me: in the movie, when everything is said and done, Dojo-Mojo-Casa-House is no more, and Barbieland is pinkly restored, stereotypical Barbie decides she wants to live in the real world, in that very messy middle ground between Kendom and Barbieland. Yay, real world!
+
+Note: folks praise [Ryan Gosling](https://www.imdb.com/name/nm0331516/?ref_=tt_cl_t_2)’s performance, but I marvel at [Margot Robbie](https://www.imdb.com/name/nm3053338/?ref_=tt_cl_t_1)’s capacity to be perfect Barbie, then overly messed-up Barbie, then regular Barbie.
+
+![img]({{site.baseurl}}/images/barbie03.jpg#center)
+
+I am getting there, I promise. The thing is, **perfect is so ridiculous! But yet, we keep trying to be perfect**. Even I have been *monts-plaining* you how to be a perfect project manager through this very newsletter when I am a mess half of the time! The real drama is that when we don’t achieve perfection as we envision it (because it is impossible and absurd), we drop dead to the other side, where we convince ourselves we are a failure and don’t belong. Then, as we think we don’t belong, we decide we are impostors.
+
+![img]({{site.baseurl}}/images/barbie04.jpg#center)
+
+Yeah, my mental ~~shart~~ pirouette ended up seeing [Barbie](https://www.imdb.com/title/tt1517268/) as an Impostor Syndrome killer. Stay with me: when Barbie decides to live in the real world, with flat birkenstocks and all, she embraces the complexity of being a woman, the fact that she is not perfect anymore, the realization that not being perfect is perfectly ok, and that, being imperfect, she is enough and she belongs.
+
+![img]({{site.baseurl}}/images/barbie05.webp#center)
+
+Do you guys remember this bench scene where Barbie tells this old lady she is so beautiful, and the old lady replies *I know it!*? Apparently, some movie execs asked [Greta Gerwig](https://www.imdb.com/name/nm1950086/?ref_=tt_ov_dr) to remove it. Greta replied: *If I cut the scene, I don't know what this movie is about*. I think it proves my point.
+
+Ok, if I don’t say one final thing about all this, I will betray everything I am. This may seem contradictory (and I am no psychologist), but IMO, we fight Impostor Syndrome by being kind to ourselves and always remembering that we belong, but also by relentlessly working to improve. Yes, perfection is the enemy of “good,” as it is mediocrity. And ladies, we can totally fight mediocrity by supporting and empowering each other, especially at work!
+
+Also, yay vaginas, and gynecologists!
+
+------
+
+*Do you want to receive posts like this one in your inbox every week?  [<u>Subscribe to my newsletter!</u>](https://popcultureguidetopm.substack.com/)!* 
