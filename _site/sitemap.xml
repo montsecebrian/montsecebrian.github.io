@@ -133,6 +133,10 @@
 <lastmod>2023-07-28T08:01:35-04:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/Good-Omens/</loc>
+<lastmod>2023-08-03T08:01:35-04:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about/</loc>
 </url>
 <url>
@@ -167,6 +171,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/tag/technical-debt/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tag/rca/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/page/2/</loc>
