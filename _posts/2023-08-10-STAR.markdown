@@ -1,0 +1,93 @@
+---
+layout: post
+title:  The STAR in Star Wars
+date:   2023-08-10 15:01:35 +0300
+image:  '/images/star-03.jpg'
+tags:   [Project-Management]
+---
+
+When I say STAR, I mean the Situation-Task-Action-Result method. When I say Star Wars, I mean Star Wars.
+
+If you have been looking for jobs lately, I am pretty sure you are familiar with the STAR method. STAR stands for **Situation-Task-Action-Result**, and we apply it to situations where we need to communicate how we handled challenges, took the initiative, and achieved results. So yeah, it is a thing when preparing for job interviews. We can also use it for presentations, conversations with stakeholders or leadership, or any time we need to show off effectively and concisely, which is, kinda sorta, all the time. With STAR, we start by describing a specific **S**ituation we faced, the **T**ask involved, the **A**ctions we took to address the situation, and the positive **R**esults we achieved. Hooray, STAR!
+
+![img]({{site.baseurl}}/images/star-01.jpg#center)
+
+# Why is the STAR method so cool? It’s the stories!
+
+The STAR method is so cool because it helps us tell a story succinctly and successfully. **And why do we need to tell stories?** Dude, because it is super fun! I have been sharing examples of how stories make us better managers for a while now, haven’t I? **Stories do this cool thing where they hook us up emotionally, helping us remember stuff better**. Seriously, stories are like memory boosters, and our brain freaking loves them. You give your brain a plot well rolled out, and your beautiful encephalon will beg for more as if you had just opened a family bag of Cheetos. Let’s see why!
+
+When stories do their thing, two brain hotspots fire up like a bunch of Avengers about to save the world: the prefrontal cortex and the amygdala. The **prefrontal cortex** is like your brain's headquarters for thinking and getting what's going on. It absorbs the info and stores it in your human cache or short-term memory. Then there's the **amygdala**, which is in charge of feelings and long-term memories. So these two have a crazy partnership: **while the prefrontal cortex is working its memory caching magic, the amygdala tags the info with all the feelings as if it was emo metadata**. Then, voila! The memories stick around! And that is why the message lingers in our audience’s brains when we tell good stories. When I say good, I mean with a start, a result, and cool stuff in between in the form of tasks and actions.
+
+# The wonder trio: dopamine, oxytocin, and endorphins
+
+So there are things we can do to amplify the cool effect of a story, and it has to do with the trio of chemicals that dance, sing, drink, and party naked around a bonfire inside our brain while the prefrontal cortex and its friend the amygdala earn their keep. 
+
+**Dopamine**. When you get a dopamine kick, you feel motivated and laser-focused. Intense and suspenseful situations may increase dopamine levels, so when you prepare for your job interview or presentation, you should tell a story that includes a challenging, complex, or intense situation. Boom! You now have your listener’s focus.
+
+**Oxytocin**. This one creates an emotional bonding and fosters trust and generosity. When telling stories, targeting the heart by channeling sadness works pretty well to juice up all that oxytocin. In a professional environment, you don’t want to overdo this one. Being vulnerable and honest is the best bet here.
+
+**Endorphins**. These are your brain's chill pills. They're all about making you feel relaxed, happy, and creative. Good laughs or nice feel-good vibes are effective endorphins boosters, so make sure you spice your story up with positivity. Usually, the results part of the STAR is a good place to light up some endorphins. 
+
+![img]({{site.baseurl}}/images/star-02.jpg#center)
+
+# The STAR method up close and personal
+
+Let’s take a closer look at the STAR magical method. Super important: when using it, **don’t forget to sprinkle some dopamine, oxytocin, and endorphins here and there!**
+
+Of course, you will have to prepare the stories beforehand. It should not be a problem if you are getting ready for a presentation. If you are job-hunting, you most probably already have some stories you can use. I advise you to also check the job description for “inspiration” for more. For example, if the job description says they want someone who thrives with data, you should prepare a story to explain that time when you used data to improve something. Please note that preparing a story doesn’t mean making it up. Please don’t lie, for heaven's sake! Preparing a story means you are ready to tell it using the STAR method and spicing it up with some dopamine, oxytocin, and endorphins.
+
+Ok, let’s get into the STAR method!
+
+## **Situation**
+
+You want to start by setting the scene for a good story. Give a quick rundown of the context, just enough to give your audience a taste. Don’t hang up on the details here. You don’t want to spend too much time setting the scene, as you’ll need the time for the actions and the results! Remember that you are telling a story, but you are not Christopher Nolan. Keep it short!
+
+## **Task**
+
+Then you dive into the task at hand. What was your role in the whole deal? What were you supposed to achieve? Keep it snappy. Your audience doesn't need a novel, just a couple of key points to get the gist of it.
+
+## **Actions**
+
+This is your time to shine! What moves did you make to tackle the challenge? Lay it out step by step. You need to be concise, but don’t be afraid of getting into some cool nitty-gritty if the heart of the story requires it. You will spend the bulk of your time here, but this can’t be a mental shart. Structure your thoughts and be succinct!
+
+## **Results**
+
+This is where you tell your audience why the universe is a better place because of your epic actions. Share two or three major results that came out of your moves. Don't stop there! Talk about what you learned, how you leveled up, and why you're now a supercharged human, thanks to that experience. It's like showing off your trophies. Give the results a solid chunk of your time, almost as much as your action-packed section.
+
+![img]({{site.baseurl}}/images/angry-lady.jpg#center)
+
+*Montse, you have been talking non-stop, and no Star Wars yet. WTF. What kind of wicked clickbait is this? I want my money back!*
+
+# The Star Wars in the STAR
+
+Ok, so let’s imagine that Luke Skywalker had to audition for the position of Yoda’s padawan after the events in [A New Hope](https://www.imdb.com/title/tt0076759/).
+
+**Yoda**: Hmm, young Luke, a Jedi you want to be, ah? Impatient and eager you are. Your thoughts you need to gather, hmmm. Tell me, young Luke, a situation can you recount, where a significant challenge you faced, and how did you handle it, hmmm?
+
+![img]({{site.baseurl}}/images/star-03.jpg#center)
+
+**Luke Skywalker**:
+
+**Situation**: Well, I was living with my aunt and uncle on the desert planet Tatooine, going about my routine as a farm boy. I discovered two droids, R2-D2 and C-3PO, that had information about the Empire's superweapon, the Death Star, capable of wiping out entire planets. It was a pretty dire situation because the Empire killed my aunt and uncle when looking for the droids, and the fate of the galaxy was at stake.
+
+**Task**: My task was to help these droids reach the Rebel Alliance and ensure that the information got into the right hands. This meant leaving behind everything I knew and embracing a bigger purpose to fight against the tyranny of the Galactic Empire.
+
+**Actions**:
+
+- I decided to team up with Obi-Wan Kenobi, a wise Jedi Knight who used to know my father, Anakin Skywalker. I also partnered with smugglers Han Solo and Chewbacca.
+- Together, we rescued Princess Leia Organa from the clutches of the Empire and managed to get the Death Star plans. I do think there’s something there between Leia and me.
+- I trained with Obi-Wan to learn about the Force, the mystical energy that guided my actions. I had to learn quickly and adapt to new situations, like piloting a starfighter in a tense battle against the Empire's forces.
+- Through our teamwork and determination, we successfully analyzed the Death Star plans and found a vulnerability in its design.
+- During the critical battle, I relied on the Force to guide my shot and hit the target, causing a chain reaction that destroyed the Death Star.
+
+**Results**:
+
+- This victory was a significant blow to the Empire and a beacon of hope for the Rebel Alliance and the galaxy as a whole.
+- This experience taught me the importance of stepping up when needed, working alongside a diverse group of individuals, and embracing challenges to achieve the greater good. It also helped me discover my own potential as a Jedi and a leader.
+- In the end, we all got a medal except Chewbacca. I got to keep R2-D2 and the starfighter now lying at the bottom of that dump. 
+
+Of course, there’s no way whiny Dagobah-Luke could be that articulate 😀, but you get where I am going. See how he quickly lays out the scene adding a bit of drama with his family’s murder, how the action part is the longest, and how he focuses on his accomplishments. In the end, he shares why all the actions were meaningful and what he learned. Good job, Luke! 
+
+------
+
+*Do you want to receive posts like this one in your inbox every week?  [<u>Subscribe to my newsletter!</u>](https://popcultureguidetopm.substack.com/)!* 
