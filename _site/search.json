@@ -1,10 +1,46 @@
 [
   
     {
+      "title"    : "A project manager, a pirate, a convict, and a reality show",
+      "category" : "",
+      "tags"     : "Project-Management",
+      "url"      : "/control/",
+      "date"     : "Sep 15, 2023",
+      "image"    : "/images/control01.jpg"
+    } ,
+  
+    {
+      "title"    : "Don’t be an asshole at the office",
+      "category" : "",
+      "tags"     : "Project-Management",
+      "url"      : "/asshole/",
+      "date"     : "Sep 8, 2023",
+      "image"    : "/images/asshole02.jpg"
+    } ,
+  
+    {
+      "title"    : "What makes for a great Project Manager?",
+      "category" : "",
+      "tags"     : "Project-Management and Star-Wars",
+      "url"      : "/jedi-pm/",
+      "date"     : "Sep 1, 2023",
+      "image"    : "/images/jedi-pm-01.jpg"
+    } ,
+  
+    {
+      "title"    : "Tiki-taka and Project Management",
+      "category" : "",
+      "tags"     : "Project-Management",
+      "url"      : "/tiki-taka/",
+      "date"     : "Aug 25, 2023",
+      "image"    : "/images/tikitaka-01.jpg"
+    } ,
+  
+    {
       "title"    : "Star Trek Strange New Worlds &amp; Project Management",
       "category" : "",
       "tags"     : "Project-Management",
-      "url"      : "/Star-Trek/",
+      "url"      : "/star-trek-pm/",
       "date"     : "Aug 17, 2023",
       "image"    : "/images/star-trek-0.jpg"
     } ,
@@ -12,7 +48,7 @@
     {
       "title"    : "The STAR in Star Wars",
       "category" : "",
-      "tags"     : "Project-Management",
+      "tags"     : "Project-Management and Star-Wars",
       "url"      : "/STAR/",
       "date"     : "Aug 10, 2023",
       "image"    : "/images/star-03.jpg"

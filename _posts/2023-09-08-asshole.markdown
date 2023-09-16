@@ -1,0 +1,46 @@
+---
+layout: post
+title:  Don’t be an asshole at the office
+date:   2023-09-08 15:01:35 +0300
+image:  '/images/asshole02.jpg'
+tags:   [Project-Management]
+---
+
+Do you remember that time in [Succession](https://www.imdb.com/title/tt7660850/) when Hugo was caught red-handed mocking Logan’s girlfriend in a conference room? 
+
+![img]({{site.baseurl}}/images/asshole01.png#center)
+
+While we already saw that [the behaviors featured in Succession are the opposite of what we should do](https://popcultureguidetopm.substack.com/p/succession-dont-try-this-at-home), these kinds of office fiascoes happen, and they happen often. Here you have three examples where I witnessed epic office fails:
+
+- Someone was demoing. It was a Zoom call. When the demo was over, they didn’t stop sharing their screen. A Slack conversation started. They were joking about what a “dog and pony show” that was and how the project was a technical mess bound to utter failure. Not only the entire team saw it. It got recorded for everyone to share.
+- Someone wrote an email criticizing their manager brutally. The text was witty, occasionally rude, and downright inappropriate, obviously meant for allies’ eyes only. They mixed up the addresses and sent the email to the manager herself.
+- Someone openly bad-mouthed a co-worker in front of a group of people they weren’t familiar with. One of them was said co-worker's best friend.
+
+It is embarrassing. Isn’t it? Don’t worry. **In this post, I will give you an infallible method to avoid these mishaps**. It is NOT making sure your screen-sharing configs are right, and it is NOT double-checking the recipient of an email. 
+
+It is that **we need to stop being assholes**.
+
+Don’t say shitty things about other co-workers. Don’t do it on company grounds. Don’t do it using company tools. I know life is hard, and we are all human, so if you really need to get it out, do it with a non-work friend or a work friend you know and trust. Do it after work. Do it outside of the office.
+
+This infallible method will save you from embarrassment or an HR talk and make you happier and more productive. Think about it. You are a project manager. You can’t afford to hate or belittle co-workers. You either work with them already or will work with them in the future.
+
+Also, why the nastiness? It is a waste of energy you could and should be using to ensure you do your job right. The more you talk about how horrible or useless someone is, the more horrible and useless they become in your mind. Is that productive at all? Is that going to help you in any way? No, precisely the opposite. It is going to eat you inside and make you miserable. When you are miserable, your brain doesn’t work well. When your brain doesn’t work well, you make mistakes like emailing the wrong person.
+
+![img]({{site.baseurl}}/images/asshole02.jpg#center)
+
+If I have not convinced you yet, I will show you how two of my favorite TV characters embody the concept of not being an asshole: **Leslie Knope** from [Parks and Recreation](https://www.imdb.com/title/tt1266020/) and **Elsbeth Tascioni** from [The Good Wife](https://www.imdb.com/title/tt1442462/) and [The Good Fight](https://www.imdb.com/title/tt5853176/).
+
+- They are human mood-lifters. It is like a superpower. They can turn a gloomy office into a party zone! No matter how bad the day has been, their smile will make it better. It's like a happiness magic potion that they spread non-stop.
+- They are perpetual optimists. No matter how tough the problem gets, their sunny outlook is infectious. They are morale boosters.
+- They are the best team leaders. Their capacity to bring the whole squad together is amazing. Do you need someone to rally the troops? Call them!
+- They are freaking conflict whisperers. When the office drama heats up, they step in like peacemakers extraordinaire. It is like mediation magic.
+- They are approachable. Talking about work stuff with them is like chatting about your weekend plans. No jargon, no stiffness – just easy conversations.
+- They are like a productivity dynamo. Them being around equals to A-game. Their positive energy lifts everyone up and motivates them. It is like we can conquer any challenge that comes our way if we are with them.
+
+Do you see them wasting their time talking shit about others? No, because they don’t do that! They are super smart, but I can see them sharing the wrong screen by mistake. It won’t be a problem, as folks will only see positive messages of encouragement, stars, rainbows, and waffles. 
+
+**Be the Leslie Knope & Elsbeth Tascioni of whatever you do**. You will be happier and more successful. I know it is freaking difficult sometimes. After all, we are humans, not magical beings touched by light, but at least we can always strive to be better every day.
+
+------
+
+*Do you want to receive posts like this one in your inbox every week?  [<u>Subscribe to my newsletter!</u>](https://popcultureguidetopm.substack.com/)!* 

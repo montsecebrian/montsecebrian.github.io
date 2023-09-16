@@ -1,0 +1,72 @@
+---
+layout: post
+title:  Tiki-taka and Project Management
+date:   2023-08-25 15:01:35 +0300
+image:  '/images/tikitaka-01.jpg'
+tags:   [Project-Management]
+---
+
+And when I say “Tiki-Taka,” I mean football, and when I say “football” I mean the sport that some of you know as “soccer.” I am a Spaniard, for god’s sake. I die a little every time I say “soccer.”
+
+![img]({{site.baseurl}}/images/tikitaka-01.jpg#center)
+
+# Yes, I like football, despite everything
+
+Warning! The following six paragraphs have nothing to do with project management, but I will explode if I don’t write them. ~~You can go directly to the next section to avoid my venting about the toxicity of football~~. No, don’t skip these six paragraphs. There’s too much work to do, and we need to keep yelling. *Vamos!*
+
+Liking football while being a woman (and a decent human) is quite difficult these days. It doesn’t escape me that it is challenging to enjoy something promoted by **institutions where homophobia and toxic masculinity are deeply rooted and celebrated**. 
+
+Last winter, a country that downright disregards fundamental human rights held the Men’s World Cup in both a shameless and shameful image-laundering campaign built over blood. I have no proof but neither doubt that many FIFA executives became considerably wealthier through corruption and abuse. 
+
+The team that won the Women’s World Cup just a few days ago in a quite different part of the world played without some of its best players. They refused to participate because the Spanish Football Federation wasn’t fostering an environment that helped them succeed. They asked for basic improvements in their working conditions, a fraction of what the male team has, and in response, they were accused of being spoiled and childish. 
+
+The Federation finally gave them a small portion of what they asked, and some players accepted to play. This is very respectable. Some other players decided not to play. This is also very respectable. And brave. The ones who played broke their backs through the entire competition and finally won. Let that sink in for a bit. **They won the freaking World Cup!!!** I am so happy for them! 
+
+![img]({{site.baseurl}}/images/tikitaka-02.png#center)
+
+During the celebration, the president of the Federation (the same Federation that called them spoiled and childish) kissed one of them without her consent and then exhorted her to help clean his image **with the help of many, many folks in the Federation**. Do you smell the dry piss in this man cave? Because I do. **This behavior is unacceptable, and we can’t have people like these in positions of power**. It feels as if we walked one step forward and then three backward, and I don’t know if I cry because I am happy for the team’s successes or if I cry because of utter frustration after how we are treating these women. #seacabo
+
+One last thing: it is deeply troubling to be happy when “La Roja” (the Spanish team) wins. That kind of happiness is often linked to varying levels of pride in being Spanish, which often leads to varying levels of venomous nationalism that reflect the exact opposite of what I’d like Spain to be. As we say in Spanish: *todo mal*, and as we say in Catalan: *no puc més*. 
+
+# Football & Project Management
+
+Being a good project manager involves embracing ambiguity, so here I am, loving football despite everything I just said. 
+
+## **Let’s start with what I love about football**
+
+I love it when a team prioritizes controlling the ball and attacking forward, and I love it when they work to recover the ball if they lose it. I love it when the ball moves fast, from player to player, from the back to the front, with the goal (pun intended) always in sight. Some call this *tiki-taka*. I love *tiki-taka*. Successful Project Management is like *tiki-taka* (more on this in a bit).
+
+![img]({{site.baseurl}}/images/tikitaka-06.gif#center)
+
+I love it when team players show individual quality. I love it when they pass and receive the ball so precisely that it looks easy (it is not). I love it when they resolve duels with a technical ability so sharp that it feels like the ball and players’ feet are magically magnetized.
+
+I love it when teams play cleanly, without interruptions, faults, red cards, yellow cards, chaos, or drama. I love it when the keeper is not the best player in the game because the team is focused on *tiki-taking* their way forward towards the goal.
+
+I love it when players score and celebrate. I love it when they don’t score but still encourage one another. I love it when they thank the crowds that cheer for them.
+
+I love it when my team wins. I still love it when my team doesn’t win but plays honorably.
+
+**The Tiki Taka in Project Management**
+
+**Retaining possession** of the ball is like ensuring the project runs smoothly, and team members work on the right things at the right time. The short passes represent constant communication and collaboration, and *tiki-taking* your way forward is the same as continuous progress toward the goal. You can’t rush a project's success. You *tiki-taka* into it by working on the right things at the right time with team members who collaborate constantly with a clear objective.
+
+**Recovering the ball when you lose it** is like implementing actions to get our project back on track after something threatens its success. Sometimes, players lose the ball because the other team plays better. This is like when a project goes out of track because of external causes. Note that these causes are external, but we can always anticipate them when we do risk management. In this case, risk management would be like preparing a game by analyzing the opponent. Some other times, players lose the ball because of individual mistakes. We are human, and mistakes will happen through a project as well. This is ok. We just need to recover the ball and learn from it!
+
+**Technical quality** when playing the ball is like technical quality when coding, planning, designing, etc. *Tiki-taka* is only possible with technical quality. Projects need vast amounts of human quality as well. Some things to note:
+
+- A fair amount of technical quality comes from nature. Constant practice (nurture) gives us the rest. In both football and projects, practicing is critical to nurturing technical quality.
+- Good football teams usually allow junior players to play when it is safe for them and the team. If you lead a project team, encourage members to try things when it is safe. If you have read me before, you know that I hate the whole *get outside of your comfort zone* shit. What we need to do is to make our comfort zone bigger!
+
+**Relying on the keeper** to save the day when everything else has failed, or hoping that your forward rockstar finally scores when nothing else has worked, reminds me a little bit of the hero culture in some projects and companies, where the achievements and progress of the project are often attributed to the efforts of a few exceptional individuals rather than being a result of collaborative teamwork and *tiki-taka*. Hero culture is not sustainable and may lead to toxic behaviors.
+
+**Clean play**, without many interruptions, faults, and cards, goes hand in hand with smooth *tiki-taka*, which translates into smooth projects. Some football games become too physical, thought, and venomous. Then teams can hardly play, and players become more worried about protesting and complaining than about actually playing. In project-land this is a nightmare I have seen from time to time, where team members don’t collaborate, sloppy hand-offs multiply, and we spend more time in calls about saving the project than actually working on the project. I don’t have a magic recipe to fix this, but stopping the game project for a bit and reassess tends to help.
+
+**Celebrate when you score!** Ok, yes, it would be super weird if, when you reach a milestone, you suddenly run through the office yelling with your arms open while your team members run after you and finally catch and massively hug you. Hmmm. It’d be super weird but super cool. Anyway, never forget to celebrate, and never cease to encourage. Also, never forget your customers. In football, folks often fail to remember that supporters are the customers. I love it when players genuinely offer their successes to the crowds. Next time you release a fantastic feature, imagine yourself in the middle of a stadium, arms wide, offering it to all those happy customers 😀.
+
+**And finally, win the game!** Or launch your feature, deliver your product, and close your project! Take time to celebrate, rest, and relax. Hug your team members, even if it is only virtually. Rejoice in the beautiful things you did together… and prepare for the next project! 😀
+
+![img]({{site.baseurl}}/images/tikitaka-05.jpg#center)
+
+------
+
+*Do you want to receive posts like this one in your inbox every week?  [<u>Subscribe to my newsletter!</u>](https://popcultureguidetopm.substack.com/)!* 

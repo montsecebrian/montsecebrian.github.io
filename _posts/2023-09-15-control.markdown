@@ -1,0 +1,56 @@
+---
+layout: post
+title:  A project manager, a pirate, a convict, and a reality show
+date:   2023-09-15 15:01:35 +0300
+image:  '/images/control01.jpg'
+tags:   [Project-Management]
+---
+
+A story of how control makes a project manager happier than an introvert on a rainy weekend.
+
+You don’t have to be a project manager for control to make you happy. It turns out that **it is in our very nature as human beings to enjoy the feeling of control**. I encourage you to watch [this short video from Baker Café](https://youtu.be/ui37t4Ao02I?si=pOcSW_NiC6BlEaoy), where Sergio shares why control is so gratifying. It is in Spanish, but he explains it very clearly. You can also activate the translated subtitles 🙂.
+
+The thing is that humans are exceptionally equipped to think about the far future; we have a high desire to control it, and so **we experience deep gratification when we feel we have control over our lives**. The bad news is that the control we think we have is an illusion, but we’ll get to that later.
+
+First, let’s see some examples of how control is so gratifying. Then, we’ll touch base on how all this applies to project management.
+
+![img]({{site.baseurl}}/images/control01.jpg#center)
+
+# The reality show
+
+In the movie [The Truman Show](https://www.imdb.com/title/tt0120382/), Truman has unknowingly lived inside a reality TV show since birth. He is like a puppet. From his friends to his job and even the weather, everything is carefully managed by the TV show's creators. It's like a crazy experiment in control gone wild because, of course, Truman starts suspecting and engages in his own journey to seek control of his life. While (spoiler, but really, the movie is from 1998, you should not need a warning) Truman succeeds, the film pushes the viewer to reflect on how we may be influenced by external forces and the actual lack of control that governs our lives.
+
+# The convict
+
+Let’s now move to a real prison and meet Andy Dufresne in [The Shawshank Redemption](https://www.imdb.com/title/tt0111161/). The guy, wrongly imprisoned, manages to gain control of his life by carefully plotting and executing a master plan that leads him to freedom (yeah, I did not do the spoiler warning thing; life is hard). It is not only that he gains control of his life with freedom. It is that he gains control of his life by devising, executing, and controlling the plan that takes him to freedom.
+
+# The pirate
+
+You can choose your favorite pirate here. We have the recent [One Piece](https://www.imdb.com/title/tt11737520/), or [Our Flag Means Death](https://www.imdb.com/title/tt11000902/). We can go a bit vintage with [Pirates of the Caribbean](https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean_(film_series)). We can even embrace the classics with one of my favorite poems: [Canción del pirata](https://es.wikisource.org/wiki/Canción_del_pirata). One thing is consistent: the pirate always leaves behind a life of conventions and lack of control to embark on a life of freedom and adventure where seemingly they control their future. Seemingly.
+
+# The project manager
+
+Ah, the project manager! The project manager is like a pirate, especially at the beginning of the project, when there’s an entire ocean of possibilities to explore. A new project is always a new adventure, after all. Most importantly, project managers are a lot like Andy Dufresne, as they need to carefully plan and execute. Project managers have a whole set of tools to help them gain and keep the project under control: timelines, monitoring, budget management, risk management, etc.
+
+**As project managers, we love the idea of control. Few things are more gratifying than a reasonable timeline or roadmap**. We smile, and we say, *This is the plan! This is under control!*
+
+No, it is not.
+
+Like Truman when he realizes he has no control over his life, or like a pirate who starts navigating and faces an unexpected storm, or even like any of us facing life, **project managers have way less control over projects than traditional project management guides make us believe**. The scope will change. It will affect costs, schedules, and resources available. There will be an unexpected technical roadblock, an unexpected legal issue, or an unexpected hurricane that will leave half the team without power. The key word here is unexpected. We can’t control it.
+
+You know what’s the good thing? When the uncontrollable happens, we should be able to react quickly, adapt, and re-plan, giving us a new rush of control gratification 🙂. Agile techniques help with the “reacting quickly and adapting” part. They help us control the things that will happen in the very near future, allowing us to enjoy planning every few weeks while we let ourselves be a little loose with long-term plans.
+
+There are things easier to control than others, though. While we know that scope and timelines are liquid and subject to change, **there are critical aspects of a project that are less volatile**, such as:
+
+- Communication: we can’t control the unexpected, but it is easier to control how we keep everyone in the loop.
+- Issue and Change Management: so we know the unexpected will happen. We can pre-game how we are going to deal with it. 
+- Lessons Learned & Retros: There’s always room for improvement. We can look back regularly and consider what went well and what needs improvement. Then, we incorporate the learnings into the next planning.
+- Escalation: If we can’t fix a problem, we can at least control who can help us.
+
+I don’t think a project manager’s main job is controlling a project. We are set up for failure if we think that way. We can’t control projects. Not fully. What we can do is ensure that **we create a plan with room for flexibility, we deal with the unexpected gracefully, we communicate effectively, and we continuously improve**.
+
+What do you folks think?
+
+------
+
+*Do you want to receive posts like this one in your inbox every week?  [<u>Subscribe to my newsletter!</u>](https://popcultureguidetopm.substack.com/)!* 

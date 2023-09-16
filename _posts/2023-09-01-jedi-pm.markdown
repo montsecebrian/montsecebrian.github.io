@@ -1,0 +1,56 @@
+---
+layout: post
+title:  What makes for a great Project Manager?
+date:   2023-09-01 15:01:35 +0300
+image:  '/images/jedi-pm-01.jpg'
+tags:   [Project-Management, Star-Wars]
+---
+
+Two events took me here today. First, I mentioned in a team meeting that Project Management is not rocket science. While I still think it is not, my coworkers made me see that there’s definitely more to it than I initially thought **and that being a Project Manager takes something somewhat special** and that not everyone can master it, which leads me to the second event that brought me here: I read that to enjoy [Ahsoka](https://www.imdb.com/title/tt13622776/) I needed to watch [Star Wars Rebels](https://www.imdb.com/title/tt2930604/) first, so you can imagine what I have been bingeing on this week. As this newsletter is the direct result of my obsessions, here you are, reading my ramblings about Project Management and The Force. Well, there are worse things I could do.
+
+![img]({{site.baseurl}}/images/jedi-pm-01.jpg#center)
+
+**What makes for a great Project Manager, anyway?** I am not going to insult your intelligence by making a list. You can Google it yourself, and you’ll see a lot of emphasis on **leadership** and **communication**. That’s reassuring because I have written many words about it since I started this newsletter. I do think you can learn and improve your communication skills no matter how bad you think you are at it. What about leadership? Is leadership something you can learn, or do you need a midichlorian leadership trait in your DNA to succeed at it? I honestly don’t know, and things are never black or white, bad or good, not even The Force is. 
+
+We may agree that being a great Project Manager may be a combination of what you ***know*** and what you ***are***. Let’s start with the things you know. 
+
+**You probably know the theory**: the PMBOK guide, the Agile Manifesto, the Six Sigma basics… the list continues. You typically demonstrate what you know by getting (and paying for) certifications. I am not a huge fan of certifications. In my opinion, their most significant value (apart from being a pretty lucrative business) is to certify that you know the terms and speak the “common Project Management tongue.” If you asked me, I’d say **certifications (or knowing the theory) tell very little about your abilities as a Project Manager**. They just show that you studied for a few days and then passed an exam.
+
+**You also know about your industry** when you have been working for a bit. It may be finance, health, e-commerce, media, or entertainment. It may be a million things. I strongly believe that **industry knowledge doesn’t define your value as a Project Manager**. Let me explain. You should be able to jump from e-commerce to media and then to finance without any problem. When I looked for jobs in the past, recruiters often rejected me because I had no experience in, say, finance. Well, I felt I dodged a bullet because I don’t want to work for someone who doesn’t trust I will be able to learn how their industry works. I’d say more: I don’t want to work for someone who is not willing to take the time to train me. Note that this may or may not apply to product positions, but it certainly applies to delivery positions. 
+
+**You certainly know how to use some tools**. I won’t name them, but they are the tools you use to create tasks, track dependencies, generate roadmaps, create flowcharts or presentations, calculate budgets, etc. You can imagine by now how offensive it is to me when job descriptions require “experience with Jira,” not because I hate Jira (I don’t) but because if they think so poorly of the Project Manager they are hiring that they don’t believe the new hire can learn Jira in, like, three hours, they don’t deserve a great Project Manager. 
+
+So yeah, **Project Management is not rocket science. You should be able to learn everything you need to know quickly, and what you know is not the most relevant part of your value**. So what is it that makes it special? **What is it that makes us special?**
+
+![img]({{site.baseurl}}/images/jedi-pm-02.jpg#center)
+
+> The Force is what gives a Jedi his power. It's an energy field created by all living things. It surrounds us and penetrates us. It binds the galaxy together. ~ Obi-Wan Kenobi.
+
+Of course, I already had an idea of what makes us special (dude, I have been writing about it for weeks now), but while lying on the sofa and watching a young man become a Jedi, it was super clear to me that the answer was in The Force. And no, I hadn’t had any wine.
+
+So I went to ChatGPT and asked it to tell me “what makes for a good Jedi.” What I got was what I think may be a good summary of **what makes for a good Project Manager**, not what a project manager needs to ***know***, but what a project manager needs to ***be***. Not to the letter, of course, as we don’t go around saving the Galaxy, but you can read between the lines: 
+
+A good Jedi, within the context of the Star Wars universe, embodies certain traits and values that reflect their role as guardians of peace and justice. Here are some qualities that make for a good Jedi:
+
+1. **Selflessness**: A good Jedi places the needs of others before their own desires. They are willing to make personal sacrifices for the greater good and are motivated by compassion and empathy.
+2. **Compassion**: Jedi show compassion for all living beings, even those who have strayed to the dark side. They seek to understand others and help them find their way back to the light.
+3. **Discipline**: Jedi undergo rigorous training and adhere to a strict code of conduct. This requires discipline in both their use of the Force and their behavior.
+4. **Mastery of Emotions**: Jedi are trained to manage their emotions, especially fear, anger, and hatred, as these can lead to the dark side. They maintain emotional balance to avoid being swayed by negative impulses.
+5. **Humility**: Good Jedi are humble and recognize that they are part of a larger order and mission. They don't seek personal glory or power.
+6. **Responsibility**: Jedi take responsibility for their actions and their impact on the galaxy. They strive to protect the innocent and maintain peace, even when faced with difficult choices.
+7. **Wisdom**: Jedi value knowledge and wisdom. They seek to understand the Force and its mysteries, as well as the history and cultures of the galaxy.
+8. **Courage**: Jedi face dangerous situations with bravery and resolve. They confront challenges head-on and are willing to put themselves at risk to protect others.
+9. **Non-Violence**: While Jedi are skilled in combat, they prioritize peaceful solutions whenever possible. They exhaust all other options before resorting to violence.
+10. **Detachment**: Jedi are taught to let go of attachments that could lead to emotional turmoil. This includes attachments to material possessions, personal relationships, and even their own ego.
+11. **Service**: A good Jedi serves the galaxy and its inhabitants. They don't seek power for its own sake but instead use their abilities to help those in need.
+12. **Open-Mindedness**: A good Jedi remains open to new ideas and perspectives. They are willing to challenge their own beliefs and adapt to changing circumstances.
+
+It's important to note that even though these qualities define a good Jedi, characters in the Star Wars universe, like real people, are complex and may struggle with their own shortcomings and challenges. The journey of a Jedi often involves facing personal demons, making tough choices, and learning from their mistakes in order to grow stronger in the Force and as individuals.
+
+I love how they never say that a good Jedi knows how to use a lightsaber, but they do say that Jedi are skilled in combat. **It is definitely not about what you know but about what you are.** The caveat here is that what you know informs what you are over time, so yeah, nothing is black or white.
+
+Anyway, what we need to ***know*** to be great Project Managers is not rocket science, but what we need to ***be*** so that we are great Project Managers is far more exciting than rocket science. It is the freaking Force! Think about it the next time you are playing tetris with the calendars to get stakeholders from three different timezones on a call to align on a revised roadmap of a project that has been delayed three times already 😁. **May The Force Be With You!**
+
+------
+
+*Do you want to receive posts like this one in your inbox every week?  [<u>Subscribe to my newsletter!</u>](https://popcultureguidetopm.substack.com/)!* 
