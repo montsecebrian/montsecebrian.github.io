@@ -1,6 +1,33 @@
 [
   
     {
+      "title"    : "Life lessons from The Devil Wears Prada",
+      "category" : "",
+      "tags"     : "Project-Management",
+      "url"      : "/Devil-Prada/",
+      "date"     : "Oct 6, 2023",
+      "image"    : "/images/prada01.jpg"
+    } ,
+  
+    {
+      "title"    : "Arrival and the Power of Communication",
+      "category" : "",
+      "tags"     : "Project-Management",
+      "url"      : "/Arrival/",
+      "date"     : "Sep 29, 2023",
+      "image"    : "/images/arrival01.webp"
+    } ,
+  
+    {
+      "title"    : "Can you be a good project manager if you are an introvert?",
+      "category" : "",
+      "tags"     : "Project-Management",
+      "url"      : "/Introvert/",
+      "date"     : "Sep 22, 2023",
+      "image"    : "/images/introvert01.jpg"
+    } ,
+  
+    {
       "title"    : "A project manager, a pirate, a convict, and a reality show",
       "category" : "",
       "tags"     : "Project-Management",

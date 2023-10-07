@@ -1,0 +1,38 @@
+---
+layout: post
+title:  Arrival and the Power of Communication
+date:   2023-09-29 15:01:35 +0300
+image:  '/images/arrival01.webp'
+tags:   [Project-Management]
+---
+
+Every single guide, podcast, blog, or training about project management will highlight the importance of communication when performing this job of ours that we love 😃. 
+
+**Communication is the not-so-secret sauce that makes everything work smoothly.** It's all about keeping everyone in the loop and on the same page. What needs to be done, who's responsible for what, and how things are going. Do you want a well-oiled machine? You need good communication. I won’t talk today about reporting or documenting, though. **I will focus on the slice of communication that has to do with** ***understanding***, and I will use the movie [Arrival](https://www.imdb.com/title/tt2543164/) to do so.
+
+![img]({{site.baseurl}}/images/arrival01.webp#center)
+
+In [Arrival](https://www.imdb.com/title/tt2543164/), we have a bunch of alien spaceships kind of landing on Earth. As [translator microbes](https://farscape.fandom.com/wiki/Translator_microbe) are not a thing in our galaxy, the military hires Louise Banks, a renowned linguist (Amy Adams, one of the most flagrant Oscar subs in recent history), to go and ask the aliens something like “Yo, what do you guys want?” Louis is like, “Dudes, I need to learn their language to understand them,” and their language is complex AF. It turns out the aliens are not bound by time. They don’t experience it as we do, as it is non-linear to them, so their language is also non-linear. As Louise gets familiar with the Aliens’ writing, she starts “remembering” things that she has not experienced yet, and vice-versa. 
+
+![img]({{site.baseurl}}/images/arrival02.webp#center)
+
+This is kind of based on the [Sapir-Whorf Hypothesis](https://plato.stanford.edu/entries/linguistics/whorfianism.html), which says that the language you speak can shape how you think about the world. Basically, your language's words and structure can influence how you see and understand things. Well, it is also true that some super intelligent folks (Chomsky, Pinker) are not fans of this theory. My brain is not big enough to participate in this debate, but I’ll say this: **if you master the language\* your team and stakeholders use, you will become a way better project manager.**
+
+I am not talking about speaking the same language (i.e., English). I am talking about ***understanding*** what the other person means to say and what they imply, want, or need. 
+
+Of course, this ***understanding*** goes beyond knowing the meaning of the words. It’s more profound and more difficult to explain. In [Arrival](https://www.imdb.com/title/tt2543164/), Louise and her team manage to create a dictionary or translator that anyone can use. Still, only a deep ***understanding*** of the Alien’s language transforms her. By the way, [Arrival](https://www.imdb.com/title/tt2543164/) is based on a [story](https://en.wikipedia.org/wiki/Story_of_Your_Life) by Ted Chiang. From the same author, I deeply recommend another short story, [Understand](https://en.wikipedia.org/wiki/Understand_(story)), which, unsurprisingly, also deals with these concepts.
+
+When working with a team, gaining this ***understanding*** changes you as a professional and, consequently, how you deal with your project. My math teacher from high school used to say something like: “you don’t understand this now, but when you finally understand it, you won’t understand why you didn’t understand it in the first place.” ***Understanding*** is that feeling in your head when, finally, the different pieces of an abstract puzzle make sense together, and you can interpret and translate.
+
+How do you gain understanding, anyway? Well, obviously, by learning:
+
+- If you don’t already, learn the technical basics. I am not saying that you need to know code, but you must be familiar with the platform/tool/system your team is working with.
+- Learn about the business. Ensure you know the mission and the vision, but also learn about the competitors and the trends. 
+- Learn any internal lingo used in your company. Get familiar with processes and even paperwork. Don’t be afraid to ask, and especially, don’t be afraid to ask, “Why?”
+- Learn about your stakeholders' motivations and challenges, and learn what’s important to them and what is not.
+
+After you learn, you will understand, and when you understand, you’ll experience your professional world differently, and you will be able to guide your team/project more effectively. **You will communicate more productively with everyone involved in your project**, you will make better decisions, you will connect the dots between different concepts, and you will be able to improve processes. It is also possible that when you finally understand, you can’t even conceive the world as it was before you understood it 😉.
+
+------
+
+*Do you want to receive posts like this one in your inbox every week?  [<u>Subscribe to my newsletter!</u>](https://popcultureguidetopm.substack.com/)!* 
