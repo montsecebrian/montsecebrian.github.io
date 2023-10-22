@@ -1,0 +1,56 @@
+---
+layout: post
+title:  Life in New York is like Project Management
+date:   2023-10-13 15:01:35 +0300
+image:  '/images/new-york.jpg'
+tags:   [Project-Management,New-York,Technical-Debt]
+---
+
+Life in New York is as stimulating and often intoxicating (in a good way) as it is frustrating and disappointing. And you know what? I feel the same about Project Management.
+
+![img]({{site.baseurl}}/images/new-york.jpg#center)
+
+# New York City and Project Management: both harsh and rewarding
+
+It is undeniable that New York is harsh AF. More than the city that never sleeps, it is the city that never freaking stops. Maybe because of that, New York attracts the most ambitious people, so competition is fierce and relentless. New York will slap you at the slightest opportunity, so you must be on high alert most of the time. In New York, when it is hot, it is super hot. When it’s cold, it’s super cold. And when it rains, it pours.
+
+Project management often feels the same: it never stops. If you function as an agile product team, you will work relentlessly and non-stop to improve your product. If you are more project-oriented, chances are that right after one project finishes, you will move to the next one almost immediately. Also, many Project Managers are out there, so mediocrity doesn’t sit well. Some Project Managers have MBAs, some have a solid technical background, and some even poop vanilla ice cream. Who knows, but to survive, we must keep learning and improving while dealing with unexpected shitstorms, scorching hot deadlines, and stupidly cold meetings.
+
+Still, some folks keep getting into Project Management the same way that others keep moving to New York. I keep hearing that New York is different from what it used to be. I also keep hearing stuff about the downfall of Project Management. I don’t know. New York still feels awesomely diverse, culturally rich, and packed with opportunities and unique experiences. New York still feels like the right place for me, the same way that Project Management employs me and allows me to meet exciting new people while I learn and grow professionally. New York has no dull days like there are no dull days in Project Management.
+
+# The New York Subway, Planning & Risk Management
+
+Let’s get into some more granular examples of how New York City resembles Project Management, starting with the subway.
+
+When we begin a project, and throughout its duration, we constantly plan: we figure out what we need to do to deliver on time. Part of the planning involves defining milestones and foreseeing possible risks to mitigate, avoid, or kill them.
+
+Unless you are a character from [Gossip Girl](https://www.imdb.com/title/tt0397442/), you will move around using the subway. Let’s say that the subway trip is your project, the product is the activity you will attend, and the outcome/value is how much fun you will have because of the activity. Your deadline is when you need to be somewhere else in the city. It will be a hard deadline if you are attending a Broadway show or a soft deadline if you are meeting with a bunch of friends for drinks.
+
+Your plan will include deciding when to leave home to make it on time. You will assess the number of stops, connections (milestones?), and walking time. You may rely on Google Maps to tell you which train/s you need to ride and how long it will take, but you may add some padding to that, the same way that all of us add some (or a lot of) padding to an engineering estimate. 
+
+You will also do some risk assessment. For example, if it is the weekend or at night, the risk of express trains going locally increases, affecting your arrival time. You may mitigate the risk by adding more padding to your trip duration estimation. If you have a lot of connections and it is a late-night trip, you may avoid the risk altogether and take an Uber. Then, as often happens in engineering projects, you will need more budget to avoid the risk. 
+
+Well, anyway. You will leave your home with a plan that will most probably change halfway through when some unintelligible PA shares that the train modified its route, that the train will skip your stop, or simply that some crazy New York thing happened and you are stuck between stations for 5 minutes or 5 hours, depending on your luck that day. As in any other project, you must review your options, decide, consult/inform your stakeholders (in this case, your friends), and keep going. Another day in New York City and Project Management 🙂.
+
+# Roaches, Rats, and Technical Debt
+
+Am I comparing roaches and rats with technical debt? You can bet I am. After all, a few posts ago, [I did compare climate change with technical debt](https://popcultureguidetopm.substack.com/p/look-up-your-technical-debt-is-coming). The point is the same in both cases: if we don’t clean up after ourselves, and if we don’t prioritize long-term maintainability over immediate satisfaction, we will be surrounded by vermin, pests… and technical debt.
+
+Ward Cunningham (one of the authors of the Agile Manifesto) compared some tech problems with financial debt, coining the term *technical debt*. [You can watch the video here](https://www.youtube.com/watch?v=pqeJFYwnkjE), but the gist is that you can borrow money to do something sooner, but then you have to pay back the money plus interest. When we talk code, you can rush software to deliver value faster, but you must go back and refactor. Otherwise, you’ll pay interest in the form of slower delivery, bugs, constant troubleshooting and band-aids, customer unhappiness, etc. It does have the potential to destroy your product.
+
+Everywhere in the world, but especially in New York, if you don’t invest time (or money) to keep your apartment clean, you will soon share your living space with roaches and even mice. Two things here that are totally applicable to engineering projects:
+
+- It is better to clean a bit every day and keep your apartment in fair shape than to let dirt and disorder accumulate and then invest a whole day cleaning. It is better to write clean code from the beginning than refactor later or have “tech debt sprints.”
+- If you live in one of those super New York-y pre-war buildings, you may be going to live with roaches no matter how much you clean up. Sometimes, even mice. They come with the building, and you can do nothing other than chemical warfare. Similarly, suppose the codebase is old, and many engineers have touched it. In that case, technical debt is something you may need to learn to live with, and/or you may need more extensive refactoring efforts.
+
+# New Yorkers and Project Managers learn, then adapt, and then some more
+
+New York equals constant change. Folks move in and out, come and go. Some stores close and others open. Entire neighborhoods are built in the blink of an eye. Others are gentrified. The streets pulse with the flow of diverse cultures and communities, changing, adapting, and inventing. 
+
+There’s this term “New York tough” that is like a badge of resilience that most seasoned New Yorkers wear proudly. “New York tough” is surviving the harshest winters and the most suffocating summers. “New York tough” is the faculty to navigate crowded subways and streets with determination. “New York tough” means bouncing back from setbacks, thriving amid relentless competition, and embracing the city's diversity and challenges. It's the tenacity to chase dreams and ambitions with unyielding enthusiasm and adapt and innovate in constant change. “New York tough” is about resilience when things get tough to learn and emerge stronger and wiser from the melting pot of the city that never sleeps.
+
+“New York tough” is everything a Project Manager is. “New York tough” is learning, adapting, and then some more.
+
+------
+
+*Do you want to receive posts like this one in your inbox every week?  [<u>Subscribe to my newsletter!</u>](https://popcultureguidetopm.substack.com/)!* 

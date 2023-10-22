@@ -173,6 +173,14 @@
 <lastmod>2023-10-06T08:01:35-04:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/New-York/</loc>
+<lastmod>2023-10-13T08:01:35-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/songs01/</loc>
+<lastmod>2023-10-20T08:01:35-04:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about/</loc>
 </url>
 <url>
@@ -197,9 +205,6 @@
 <loc>http://localhost:4000/tag/jane-austen/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/tag/new-work/</loc>
-</url>
-<url>
 <loc>http://localhost:4000/tag/project-management/</loc>
 </url>
 <url>
@@ -210,6 +215,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/tag/rca/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tag/music/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/page/2/</loc>

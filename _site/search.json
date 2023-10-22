@@ -1,6 +1,24 @@
 [
   
     {
+      "title"    : "Songs for the intrepid Project Manager - I",
+      "category" : "",
+      "tags"     : "Project-Management and Music",
+      "url"      : "/songs01/",
+      "date"     : "Oct 20, 2023",
+      "image"    : "/images/songs01.jpg"
+    } ,
+  
+    {
+      "title"    : "Life in New York is like Project Management",
+      "category" : "",
+      "tags"     : "Project-Management, New-York, and Technical-Debt",
+      "url"      : "/New-York/",
+      "date"     : "Oct 13, 2023",
+      "image"    : "/images/new-york.jpg"
+    } ,
+  
+    {
       "title"    : "Life lessons from The Devil Wears Prada",
       "category" : "",
       "tags"     : "Project-Management",
@@ -102,7 +120,7 @@
     {
       "title"    : "Pride and Prejudice and Job-Hunting",
       "category" : "",
-      "tags"     : "Project-Management",
+      "tags"     : "Project-Management and Jane-Austen",
       "url"      : "/Pride-Prejudice/",
       "date"     : "Jul 21, 2023",
       "image"    : "/images/pride-prejudice-01.jpg"
@@ -318,7 +336,7 @@
     {
       "title"    : "Bitch",
       "category" : "",
-      "tags"     : "Essay and New-Work",
+      "tags"     : "Essay and New-York",
       "url"      : "/Bitch/",
       "date"     : "Mar 7, 2022",
       "image"    : "/images/pina-colada-beach.jpg"

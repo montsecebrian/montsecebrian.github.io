@@ -3,7 +3,7 @@ layout: post
 title:  Pride and Prejudice and Job-Hunting
 date:   2023-07-21 15:01:35 +0300
 image:  '/images/pride-prejudice-01.jpg'
-tags:   [Project-Management]
+tags:   [Project-Management,Jane-Austen]
 ---
 
 > ### It is a truth universally acknowledged that a successful company in possession of a sound budget must be in want of a new hire.

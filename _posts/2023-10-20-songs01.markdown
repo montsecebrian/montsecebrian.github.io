@@ -1,0 +1,57 @@
+---
+layout: post
+title:  Songs for the intrepid Project Manager - I
+date:   2023-10-20 15:01:35 +0300
+image:  '/images/songs01.jpg'
+tags:   [Project-Management,Music]
+---
+
+![img]({{site.baseurl}}/images/songs01.jpg#center)
+
+We can’t imagine a world without music, can we? Music is almost like therapy. If I need to focus, there’s a song to hide from distraction. If I am happy, there’s a song to celebrate. If I am heartbroken, there is a song to purge it all out (aka cry like there’s no tomorrow). There’s a song for every step in our beautiful human journey. Songs are like magic. Seriously. At least to me. Composers, songwriters, and musicians are like impossible humans. How on earth can you do that? 
+
+Well, anyway. Music is for and about life. Music is life. And so, as project managers, there are many songs we can relate to and learn from. I’ll start with four of them today and continue in the future. Let’s go? Let’s go!
+
+# Help - The Beatles 
+
+[Spotify](https://open.spotify.com/track/7DD7eSuYSC5xk2ArU62esN?si=089e23bd63924476) - [Youtube](https://youtu.be/2Q_ZzBGPdqE?si=8EPHMK0IJkKnP9Aa)
+
+If we analyze the song superficially, we can see how, as project managers, we constantly need a lot of help. I mean, A LOT. And it is not a bad thing. It is actually our job to ask for help, and we know we are doing it okay when we ask for help from the right people, at the right time, in the right way. We won’t be the ones heroically fixing a bug in production or coming up with a technical design that saves time and money and smells like fresh strawberries. Still, we will gather the engineers, set up a room for them to do their magic together, provide everything they need, and keep them focused. **Asking for help from the right people and ensuring they can do their magic is the most efficient way to start solving a problem**.
+
+All right, if we analyze the song more deeply, it is a cry for assistance, companionship, support, and understanding. There’s a desire for connection, evidencing the human inclination to lean on others for emotional and practical assistance. As project managers, we often feel pretty alone. We operate at the intersection of various stakeholders and responsibilities, and when things go wrong, we may feel like we are bearing the burden alone. It is curious because the role often demands both leadership and isolation. My suggestion is that you work on building professional partnerships with your tech/product partners, accept jobs where your manager supports and mentors you, and try to land in organizations with a project management community. If your organization doesn’t have one, create it! You will learn and make lots of friends!
+
+# Space Oddity - David Bowie
+
+[Spotify](https://open.spotify.com/track/72Z17vmmeQKAg8bptWvpVG?si=45b35ebfb7094885) - [Youtube](https://youtu.be/iYYRH4apXDo?si=X2hWOplu3AndBQiS)
+
+"Space Oddity" tells the story of Major Tom, an astronaut who becomes isolated in space, showcasing a feeling of alienation and the uncertainty of the unknown. The song shares an explorer's emotional and psychological struggles facing the vast expanse of space, disconnected from the world. We already talked about loneliness with “Help,” so here I wanted to focus on the desire to explore and face the unknown. Starting a project is often initiating a journey that requires embracing a vast number of known challenges and unknown uncertainties. Project management is certainly not for the faint of heart but for the brave, the creative, the resourceful.
+
+“Space Oddity” and its haunting melody and lyrics have always resonated with me. I imagine “ground control” asking Major Tom, “Hey, do you have a date for when you will find aliens?” and Major Tom is like, “Dude, I am here all alone, sitting in a tin can, far above the world, cut me some slack and call me after the next sprint. Also, planet Earth is blue, and there’s nothing I can do.”
+
+# Oxford Comma - Vampire Weekend
+
+[Spotify](https://open.spotify.com/track/5nHRIKsXDwUpse9gzrAxLR?si=88a966ef8e83469a) - [Youtube](https://youtu.be/P_i1xk07o4g?si=N-DRzratJjac5U4v)
+
+Ok, enough with the intensity now. Let’s have some fun. “Oxford Comma” goes into the debate over whether to use the Oxford comma in writing. I may be *montsplaining* now, but the Oxford comma is placed before the conjunction in a list of items.
+
+While seemingly silly, fun, and trivial, the song is a metaphor for the importance of detail and precision in communication. My beautiful project managers, does this ring a bell? I don’t need to tell you that communication is one of the most important things we do as project managers. I will add that **our messages need to be precise and succinct**. Writing a novel or giving a Ted Talk is not our job. As opposed to pizza, ice cream, and everything David Tennant, ***Good things, when short, are twice as good.***
+
+Lastly, as the song captures how small details, like the use of a comma, affect the meaning of our interactions, I think worth mentioning how tone can be easily misunderstood when we write and how, IMHO, emoticons are usually a good way not to seem an asshole in writing.
+
+# The Best - Originally performed by Bonnie Tyler - Popularized by Tina Turner
+
+[Spotify](https://open.spotify.com/track/7gP0iSDthTnTTxD3uUDRTA?si=3a5a88c47d304974) - [Youtube](https://youtu.be/GC5E8ie2pdM?si=lMc8d09TwD7TVV3Z)
+
+Let’s end on the highest of notes! “The Best” celebrates self-confidence, strength, and resilience in the face of adversity. Some say it is a declaration of love. I see it more as a declaration of self-love and self-worth and the belief that we can be our best selves and achieve greatness.
+
+My dear project managers, next time you host one of those calls with a million difficult stakeholders and a bunch of explosive topics to align on, I recommend that you:
+
+1. Prepare as much as you can.
+2. Bring in an ally to help.
+3. Listen to “The Best” right before you start to remind yourself of your wonderful abilities and potential.
+
+Goodbye, my friends. I hope your week is packed with wonderful music and all the good things you deserve.
+
+------
+
+*Do you want to receive posts like this one in your inbox every week?  [<u>Subscribe to my newsletter!</u>](https://popcultureguidetopm.substack.com/)!* 
