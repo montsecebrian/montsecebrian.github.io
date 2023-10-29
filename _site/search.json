@@ -1,6 +1,15 @@
 [
   
     {
+      "title"    : "Nobody puts a project manager in the corner",
+      "category" : "",
+      "tags"     : "Project-Management",
+      "url"      : "/dirty-dancing/",
+      "date"     : "Oct 27, 2023",
+      "image"    : "/images/dirty-dancing-01.jpg"
+    } ,
+  
+    {
       "title"    : "Songs for the intrepid Project Manager - I",
       "category" : "",
       "tags"     : "Project-Management and Music",
