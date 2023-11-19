@@ -1,0 +1,71 @@
+---
+layout: post
+title:  The Sound of Project Management
+date:   2023-11-17 15:01:35 +0300
+image:  '/images/the-sound-01.jpg'
+tags:   [Project-Management]
+---
+
+What if I told you that Fraulein Maria is an amazing project manager, Mother Abbess is an outstanding leader, and the Baroness Schraeder is an exemplary human being?
+
+![img]({{site.baseurl}}/images/the-sound-01.jpg#center)
+
+Believe it or not, [The Sound of Music](https://www.imdb.com/title/tt0059742/) is one of my favorite movies. Overly sentimental and predictable? Yes, maybe, but it also has an enchanting narrative, breathtaking scenery, and unforgettable music. And it is a classic goddammit, just watch it!
+
+So, in [The Sound of Music](https://www.imdb.com/title/tt0059742/), we have Maria, a free-spirited nun who's not really feeling the whole nunnery vibe. Her manager, I mean Mother Abbess, sends her away temporarily, hoping a change of scenery may do her good. So Maria leaves the abbey to be a governess for this big Salzburg family with a strict dad, Captain von Trapp, and a bunch of not-so-adorable kids. But of course, Maria brings music, laughter, and all-around good vibes into their lives, revealing the angelical true nature of the kids (plus some top-notch vocal cords) and totally enchanting the Captain, who dumps a perfectly nice Baroness (I will always defend the Baroness, more on this later) to marry Maria, and then escape the nazis through song and music and sugar and spice and everything nice.
+
+Ok, but let’s start at the very beginning, a very good place to start. 
+
+# A lesson in people management from the Reverend Mother
+
+Yes, it is evident that Maria is not an asset to the abbey, but while some nuns are angry at her, frustrated, or indifferent, Mother Abbess's attitude is more understanding, and she makes an effort to listen to Maria and support her.
+
+![img]({{site.baseurl}}/images/the-sound-02.jpg#center)
+
+Mother Abbess sends Maria away to help her, but not only that, when Maria comes back super confused and totally smitten with the Captain, the Reverend Mother offers amazing advice and guidance, even when it means losing Maria. And she doesn’t stop there, oh no. The Reverend Mother comes up with the most exuberant motivational speech, urging Maria to:
+
+> climb every mountain, ford every stream, follow every rainbow till you find your dream.
+
+So, remember, if you are a people manager, you are responsible for your direct reports. I am not suggesting that you send them away to follow their dreams, but maybe think about how you can help them grow and motivate them, even if, at first sight, they may not seem an asset to your team.
+
+# A lesson in determination from Maria
+
+Maria leaves the convent scared AF. She is about to face the unknown and embark on a task she’s never accomplished before. I am pretty sure we can all relate to that, especially when we start a new job or are assigned to a new project. Poor Maria is really worried. Does she succumb to sorrow and pessimism? Hell, no! She shouts to the world (or half of Salzburg) that she has confidence in her capabilities and in herself. Allow me to share some pearls she says (sings) that we all should apply every single freaking day:
+
+> (I’ll have the courage to) serve them with reliance, face my mistakes without defiance (...) So let them bring on all their problems, I’ll do better than my best. I have confidence they’ll put me to the test, but I’ll make them see I have confidence in me. Somehow, I will impress them. I will be firm but kind (...) They will look up to me and mind me.
+
+![img]({{site.baseurl}}/images/the-sound-03.jpg#center)
+
+So, at this point, I wonder, first, why Maria is not the patron saint of all project managers, and second, why project management is suspiciously similar to a nanny/governess job.
+
+# A lesson in leadership from Maria
+
+Maria gets pretty strict instructions from the Captain, who loves order and discipline and establishes super stern rules. Maria basically has two options: the easiest one is to go “fuck it, this is above my paygrade,” and follow the Captain’s directives and perpetuate a failed system, then go back to the abbey and forget everything about it. The other option is to make an effort to understand what the problem is and work with the team, I mean the kids, to find a solution. 
+
+![img]({{site.baseurl}}/images/the-sound-04.jpg#center)
+
+The second option is difficult because it involves hard work and commitment and because Maria needs to come up with new processes and tools, I mean songs and play clothes made out of old drapes. I don’t need to tell you that while the second option requires involvement, skills, talent, and knowledge, it is also the most rewarding. I would say that Maria gets a nice promotion out of it, but first, she has to gain the kids’ trust, teach them a bunch of songs, and then share a few difficult truths with the Captain. I am pretty sure we can all relate to this.
+
+# No lesson from the nazi kid who thinks young women need white men to “protect” them
+
+![img]({{site.baseurl}}/images/the-sound-05.jpg#center)
+
+Yeah, fuck him.
+
+# A lesson in elegance from the Baroness Schraeder
+
+Allow me to end today with something that doesn’t have anything to do with project managers but, you know, my newsletter, my rules.
+
+Written to be the villain of the story, she is certainly not, and not because the real villains are the nazis, but because the Baroness is actually a well-rounded character that, when she realizes she has competition, goes and fights for what she wants. There’s absolutely nothing wrong with that, especially because she never does anything remotely nasty or unprofessional, I mean regrettable, to reach her goals. 
+
+![img]({{site.baseurl}}/images/the-sound-06.jpg#center)
+
+The Baroness is presented as a Captain’s equal. She doesn’t need his money. She doesn’t need his position. She is gorgeous, smart, and has a stunning sense of humor. She wants to be with the Captain because they actually have fun together, and I don’t think they would have been an unhappy couple at all. And yes, she wants to send the kids to a boarding school, but come on, those kids are posh AF. They wouldn’t have ended up in an Oliver Twist orphanage but in a marble mansion for privileged brats. Finally, and most importantly, when she realizes she has lost, she withdraws from the game most elegantly. Go, Baroness!
+
+Before I go, did you know that in Spain, they translated the title “The Sound of Music” to “Sonrisas y Lágrimas,” which means “smiles and tears?”
+
+So, my dear, beautiful friends, while the sound of Project Management is hard but exciting, don’t let it lead you to tears. Have fun, and take care.
+
+------
+
+*Do you want to receive posts like this one in your inbox every week?  [<u>Subscribe to my newsletter!</u>](https://popcultureguidetopm.substack.com/)!* 

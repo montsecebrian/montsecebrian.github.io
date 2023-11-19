@@ -1,6 +1,24 @@
 [
   
     {
+      "title"    : "The Sound of Project Management",
+      "category" : "",
+      "tags"     : "Project-Management",
+      "url"      : "/The-Sound/",
+      "date"     : "Nov 17, 2023",
+      "image"    : "/images/the-sound-01.jpg"
+    } ,
+  
+    {
+      "title"    : "The Scary Side of Project Management",
+      "category" : "",
+      "tags"     : "Project-Management",
+      "url"      : "/Halloween/",
+      "date"     : "Nov 3, 2023",
+      "image"    : "/images/scary-01.jpg"
+    } ,
+  
+    {
       "title"    : "Nobody puts a project manager in the corner",
       "category" : "",
       "tags"     : "Project-Management",
