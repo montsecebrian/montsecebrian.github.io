@@ -1,6 +1,24 @@
 [
   
     {
+      "title"    : "The project manager hit a log, and it pooped candy",
+      "category" : "",
+      "tags"     : "Project-Management",
+      "url"      : "/Pooping-log/",
+      "date"     : "Dec 8, 2023",
+      "image"    : "/images/pooping-log-01.webp"
+    } ,
+  
+    {
+      "title"    : "Journalists are awesome project managers, and I am going to tell you why",
+      "category" : "",
+      "tags"     : "Project-Management",
+      "url"      : "/Journalism/",
+      "date"     : "Dec 1, 2023",
+      "image"    : "/images/pm-journalism.jpg"
+    } ,
+  
+    {
       "title"    : "The Sound of Project Management",
       "category" : "",
       "tags"     : "Project-Management",
